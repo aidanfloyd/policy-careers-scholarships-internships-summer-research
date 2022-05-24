@@ -1,12 +1,13 @@
-name: "."
-title: "Policy Paid Internships and Scholarships"
+name: "policy-careers-undergrad-resource-guide"
+title: "Public Policy & Political Science Careers"
 description: |
   Policy Paid Internships and Scholarships
 output_dir: "docs"
+theme: my-theme.css
 navbar:
   right:
     - text: "Home"
-      href: index.html
+      href: home.html
     - text: "About"
       href: about.html
 output: distill::distill_article
