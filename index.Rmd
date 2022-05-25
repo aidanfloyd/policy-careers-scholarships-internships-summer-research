@@ -1,18 +1,47 @@
 ---
-title: "Policy Paid Internships and Scholarships"
-description: |
-  Welcome to the website. I hope you enjoy it!
+title: "**Public Policy and Political Science Careers**"
+image: "policy.png"
+links:
+  - label: Graduate Scholarships
+    url: "masters.html"
+  - label: Paid PhD Programs
+    url: "phd.html"
+  - label: Paid Internships
+    url: "internships.html"
+  - label: Summer Research Programs
+    url: "research.html"
+output:
+  postcards::trestles
 site: distill::distill_website
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+## **Paid Summer Experiences and Graduate Scholarships**
+\
 
-# Learn more about creating websites with Distill at:
-# https://rstudio.github.io/distill/website.html
+## Welcome!
 
-# Learn more about publishing to GitHub Pages at:
-# https://rstudio.github.io/distill/publish_website.html#github-pages
+Welcome! This website is an access point for undergraduates to find lists of previously offered paid internships, paid summer research programs, and scholarships for continuing education in public policy and political science. These lists were last updated Summer of 2022 and are not comprehensive but meant as a jumping off point for you to get started on your own search for opportunities. No matter your background, a political science and/or public policy career is within reach!
+\
+\
 
-```
+## Continuing Education
 
+**Graduate Degree Programs**
+\
+A list of US News Ranking for "Best Graduate Public Affairs Programs" and their offered major scholarships and funding opportunities. 
+\
+
+**PhD Programs**
+\
+A list of fully-funded PhD programs in the US News Ranking top 50 Public Affairs programs.
+\
+
+## Summer Experiences
+
+**Paid Internships**
+\
+A listing of previously offered political science and policy related paid internships for undergraduate students.
+
+**Paid Summer Research**
+\
+A list of paid summer research opportunities in policy and political science.

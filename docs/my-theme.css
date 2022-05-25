@@ -21,7 +21,7 @@ html {
   --aside-size:      12px;
   --fig-cap-size:    13px;
   /*-- Main font colors --*/
-  --title-color:     #008B8B;
+  --title-color:     #483D8B;
   --header-color:    rgba(0, 0, 0, 0.8);
   --body-color:      rgba(0, 0, 0, 0.8);
   --aside-color:     rgba(0, 0, 0, 0.6);
@@ -30,13 +30,13 @@ html {
   --heading-font:    sans-serif;
   --mono-font:       monospace;
   --body-font:       sans-serif;
-  --navbar-font:     sans-serif;  /* websites + blogs only */
+  --navbar-font:     bookman;  /* websites + blogs only */
 }
 
 /*-- ARTICLE METADATA --*/
 d-byline {
   --heading-size:    0.6rem;
-  --heading-color:   #008B8B;
+  --heading-color:   #483D8B;
   --body-size:       0.8rem;
   --body-color:      rgba(0, 0, 0, 0.8);
 }
@@ -59,11 +59,11 @@ d-appendix {
 /* These properties only apply to Distill sites and blogs  */
 
 .distill-site-header {
-  --title-size:       18px;
-  --text-color:       rgb(0, 0, 0);
-  --text-size:        15px;
-  --hover-color:      #6495ED;
-  --bkgd-color:       #F0F8FF;
+  --title-size:       20px;
+  --text-color:       white;
+  --text-size:        20px;
+  --hover-color:      #9370DB;
+  --bkgd-color:       #4B0082;
 }
 
 .distill-site-footer {

@@ -1,0 +1,13 @@
+---
+title: "Additional Resources"
+description: |
+  Links to various resources you may find helpful in your search for opportunities.
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+https://www.usnews.com/best-graduate-schools/top-public-affairs-schools/public-affairs-rankings
+
