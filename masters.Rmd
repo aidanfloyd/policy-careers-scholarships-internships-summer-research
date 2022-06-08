@@ -1,82 +1,78 @@
 ---
 title: "Graduate Degree Programs and Scholarships"
 description: |
-
 output: distill::distill_article
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = TRUE, results = 'markup')     
 ```
 
-::: {.l-page}
-::: {.panelset}
-::: {.panel}
-## 👋 Hey! {.panel-name}
+```{r xaringan-panelset, echo=FALSE}
+xaringanExtra::use_panelset()
+```
 
-This is tab number 1 . 🌟 [**Check the following tabs for some unsolicited advice**]{.ul} 🌟 👆
-:::
+<div>
+
+ <p id="left">
+ </p>
  
-::: {.panel}
-## Unsolicited advice 1 {.panel-name}
+ <img>
+ 
+<div>
 
-This is tab number 2
-
-```{r, out.width="50%",echo=FALSE ,fig.align = 'center'}
-knitr::include_graphics('https://media.tenor.com/images/be8a87467b75e9deaa6cfe8ad0b739a0/tenor.gif')
-```
-:::
-
-::: {.panel}
-## Unsolicited advice 2 {.panel-name}
-
-This is tab number 3
-
-```{r, out.width="50%",echo=FALSE ,fig.align = 'center'}
-knitr::include_graphics('https://media.tenor.com/images/6a2cca305dfacae61c5668dd1687ad55/tenor.gif')
-```
-:::
-
-::: {.panel}
-## Unsolicited advice 3 {.panel-name}
-
-This is tab number 4
-
-```{r, out.width="50%",echo=FALSE ,fig.align = 'center'}
-knitr::include_graphics('https://media.tenor.com/images/bfde5ad652b71fc9ded82c6ed760355b/tenor.gif')
-```
-:::
-
-::: {.panel}
-## 🔚 Ending tab {.panel-name}
-
-This is tab number 5. Thank you for reading this far.
-
-```{r, out.width="50%",echo=FALSE ,fig.align = 'center'}
-# knitr::include_graphics('https://media.tenor.com/images/3f9ea6897492ac63d0c46eb53ae79b11/tenor.gif')
-```
-:::
-:::
-:::
-
-
-### Indiana University
-
+## #1 - Indiana University (Bloomington, IN)
 
 ::: {.l-page}
 ::: {.panelset}
 ::: {.panel}
 ### About {.panel-name}
- This is a tab test. 
+
+<img>
+
+```{r, echo = FALSE, fig.align = 'center', out.width = '40%', results= 'markup'} 
+knitr::include_graphics("../project/img/indianauniv.jpg")  
+```
+<img>
+
+Indiana University is located in Bloomington, Indiana, home to the Paul H. O'Neill School of Public Affairs
+
 :::
+
 
 :::{.panel}
 #### Cost of Attendance {.panel-name}
 
+**Application Fee:** $70  
+
+**Application Fee Waiver:** https://graduate.indiana.edu/admissions/fee-waivers.html
+
+**Annual Tuition & Fees:** $32,682.00 [more information](https://oneill.indiana.edu/masters/cost-financial-aid/index.html)
+
+**Annual Living Expenses:** $12,708.00 [more information]()
+
+:::
+
+::: {.panel}
+#### Scholarships/Fellowships {.panel-name}
+
+**Priority Aid Deadline:** July 15th
+
+**Scholarships Website:** https://oneill.indiana.edu/masters/cost-financial-aid/merit-based-aid/index.html
+
+**1. Public Affairs Fellowship** - Approximately 50 percent of incoming students 
+receive fellowship awards from O’Neill. **Apply** by January 15th. Answer the 
+Financial Aid questions found in the Program Materials section of the online application to be considered for all opportunities
+
+**2. Educational Opportunity Fellowship** - The EOF is a one-year award which includes a 
+$2,500 stipend and a fee reduction. (Recipients are eligible to pay tuition at the resident rate for up to 24 credit hours or 12 hours per semester). **Eligibility** is a nominee must be a first-generation college student (neither parent achieved a Baccalaureate Degree) **OR** must demonstrate acute financial need. **Apply** with special EOF application form and by submitting the FAFSA. 
+
+**3. [Foreign Language and Area Studies](https://reei.indiana.edu/graduate/funding-opportunities/foreign-language-and-area-studies-fellowships.html)** - $15,000 stipend, plus tuition award of 12 credit hours per semester, health insurance grant. In support of graduate and undergraduate students studying less commonly taught languages and cultures, in particular, those considered to be of critical interest to the United States. They are 
+intended to promote the training of students who plan to make their careers in college or university teaching, government service, or other employment where knowledge of foreign languages and cultures is a prerequisite for success. **Apply** by submitting 3 letters of recommendation, Official Transcripts, FAFSA, and Statement of Purpose (2 Pages)
+
+
+
 :::
 :::
 :::
-
-#### Scholarships/Fellowships
-
-
