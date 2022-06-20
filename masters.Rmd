@@ -18,8 +18,6 @@ xaringanExtra::use_panelset()
  <p id="left">
  </p>
  
- <img>
- 
 <div>
 
 ## #1 - Indiana University (Bloomington, IN)
@@ -29,17 +27,13 @@ xaringanExtra::use_panelset()
 ::: {.panel}
 ### About {.panel-name}
 
-<img>
+**UNSWR Rank 2022:** 1st (tie)
 
-```{r, echo = FALSE, fig.align = 'center', out.width = '40%', results= 'markup'} 
-knitr::include_graphics("../project/img/indianauniv.jpg")  
-```
-<img>
+Indiana University is located in Bloomington, Indiana, home to the Paul H. O'Neill School of Public Affairs. The school offers the following graduate degrees: Master of Public Affairs (MPA), Master of International Affairs (MIA), Master of Environmental Sustainability (MES), Master of Science in Healthcare Management (MSHM).
 
-Indiana University is located in Bloomington, Indiana, home to the Paul H. O'Neill School of Public Affairs
+**School Website:** https://oneill.indiana.edu/masters/index.html
 
 :::
-
 
 :::{.panel}
 #### Cost of Attendance {.panel-name}
@@ -71,8 +65,990 @@ $2,500 stipend and a fee reduction. (Recipients are eligible to pay tuition at t
 **3. [Foreign Language and Area Studies](https://reei.indiana.edu/graduate/funding-opportunities/foreign-language-and-area-studies-fellowships.html)** - $15,000 stipend, plus tuition award of 12 credit hours per semester, health insurance grant. In support of graduate and undergraduate students studying less commonly taught languages and cultures, in particular, those considered to be of critical interest to the United States. They are 
 intended to promote the training of students who plan to make their careers in college or university teaching, government service, or other employment where knowledge of foreign languages and cultures is a prerequisite for success. **Apply** by submitting 3 letters of recommendation, Official Transcripts, FAFSA, and Statement of Purpose (2 Pages)
 
+:::
+:::
+:::
+
+## #2 - Syracuse University (Syracuse, NY)
+
+::: {.l-page}
+::: {.panelset}
+::: {.panel}
+### About {.panel-name}
+
+**UNSWR Rank 2022:** 1st (tie)
+
+Syracuse University is located in Syracuse, NY home to the Maxwell School of Citizenship Public Affairs. The school offers the following degrees: MA in Political Science, MPA in Public Administration, and MA/MPA in International Relations and Public Administration.
+
+**School Website:** https://www.maxwell.syr.edu/paia/admissions/
+
+:::
+
+:::{.panel}
+#### Cost of Attendance {.panel-name}
+
+**Application Fee:** $75  
+
+**Application Fee Waiver:** https://www.maxwell.syr.edu/admission/graduate/how-to-apply/fee-waiver-request/
+
+**Annual Tuition & Fees:** $33,358.00 [more information](https://www.syracuse.edu/admissions/cost-and-aid/cost-of-attendance/graduate/)
+
+**Annual Living Expenses:** $20,480 [more information](https://www.syracuse.edu/admissions/cost-and-aid/cost-of-attendance/graduate/)
+
+:::
+
+::: {.panel}
+#### Scholarships/Fellowships {.panel-name}
+
+**Priority Aid Deadline:** February 1st
+
+**Scholarships Website:** https://www.maxwell.syr.edu/paia/admissions/cost-to-attend/financial-aid/fellowships/
+
+**1. The John Ben Snow and Vernon Snow Fellowships in Non-Profit Management** - **Award** 40 credit hour tuition scholarship & 15,000 living stipend. **Details** Snow Fellows serve up to 16 hours per week at a local foundation (CNY Community Foundation) during the academic year. **Apply** by February 15th. To be considered for a Snow Fellowship award a separate letter of application is necessary. This letter should summarize your background and interests in nonprofit management and state your commitment to enter this field upon graduation. 
+
+**2. The Robertson Foundation for Government- Robertson Fellows Program ** - **Award** Full tuition for both years, living stipend of $20,000/yr plus health insurance, and Summer internship assistance. RFFG seeks to further their mission of helping to strengthen the Government of the United States and increase its ability and determination to defend and extend freedom throughout the world. Admitted students at the Maxwell School can pursue programs in the following two-year joint and concurrent degree programs that will prepare them for careers with the Federal Government: Public Administration/International Relations, International Relations/Economics, or Public Administration/Economics. In turn, Robertson Fellows are required to work for the Federal Government for 3 of the first 7 years after graduation and must have proficiency in a foreign language upon graduation. **Apply** applicants must submit an additional (250 word) statement outlining their academic and career goals and how these are aligned with the mission of the RFFG. This statement must also reaffirm the applicant's commitment to a career in the federal government upon graduation. The deadline is February 15.
+
+**3. The John L. and Stephanie G. Palmer Fellowships in Social Policy ** - a full time graduate assistantship and an additional cash stipend of $17,500 to be used toward additional tuition and/living expenses. Fellowships support students with a demonstrated interest in federal social welfare policy and/or fiscal and budgetary policy. Students with exceptional academic records, prior work/internship experience related to social and/or fiscal policy, and federal service career goals aligned with the Fellowship are invited to apply for the Palmer Fellowships in Social Policy. **Apply** Please indicate your interest in the Palmer Fellowship on your application (under financial aid consideration) or in your personal statement, as you outline your public service career goals.
+
+**4. Ajello Graduate Fellowship in Energy and Environmental Policy ** - a full time graduate assistantship and an additional cash stipend of $12,000 to be used toward additional tuition and/living expenses. Ajello Fellows will be chosen based upon their demonstrated interest in energy and environmental policy, and exceptional academic preparation. Each Fellow will have the opportunity to engage in research projects under the direction of Professor Peter Wilcoxen, the Ajello Professor in Energy and Environmental Policy. **Apply** Please indicate your interest in the Ajello Graduate Fellowship on your application (under financial aid consideration) or in your personal statement, as you outline your interests and career goals as they relate to energy and environmental policy.
+
+:::
+:::
+:::
+
+## #3 - Harvard University (Cambridge, MA)
+
+::: {.l-page}
+::: {.panelset}
+::: {.panel}
+### About {.panel-name}
+
+**UNSWR Rank 2022:** 3rd (tie)
+
+Harvard University is located in Cambridge, MA home to the Harvard Kennedy School. The school offers the following degrees: Masters in Public Policy (MPP), MPA in International Development, Masters in Public Administration.
+
+**School Website:** https://www.hks.harvard.edu/educational-programs/masters-programs
+
+:::
+
+:::{.panel}
+#### Cost of Attendance {.panel-name}
+
+**Application Fee:** $100 
+
+**Application Fee Waiver:** https://www.hks.harvard.edu/admissions-aid/masters-program-admissions/how-apply/application-fee
+
+**Annual Tuition & Fees:** $62,161.00 [more information](https://www.hks.harvard.edu/admissions-aid/funding-your-education/funding-your-masters-education/tuition-fees)
+
+**Annual Living Expenses:** $27,612.00 [more information](https://www.hks.harvard.edu/admissions-aid/funding-your-education/funding-your-masters-education/tuition-fees)
+
+:::
+
+::: {.panel}
+#### Scholarships/Fellowships {.panel-name}
+
+**Priority Aid Deadline:** December 1st
+
+**Scholarships Website:** https://www.hks.harvard.edu/admissions-aid/funding-your-education/funding-your-masters-education/fellowships-scholarships
+
+**1. PRESIDENTIAL SCHOLARSHIPS AND PUBLIC SERVICE FELLOWSHIPS** - **Award** typically cover the full HKS tuition. **Details** As demonstration of their commitment, recipients must be professionally employed in the public sector, broadly defined, for three years after they graduate from HKS. If they do not meet their three-year commitment, they are required to repay the tuition portion of their grant. **Apply** you will automatically be considered for as part of the financial assistance process.
+
+**2. DEAN'S AND KENNEDY FELLOWSHIPS ** - **Award**The amount of these fellowships varies depending on your financial need. You may be considered for a Dean’s or Kennedy Fellowship if you demonstrate exceptional academic ability and professional distinction. **Apply** you will automatically be considered for as part of the financial assistance process.
+
+**3. HARVARD UNIVERSITY’S COMMITTEE ON GENERAL SCHOLARSHIPS ** - The Committee on General Scholarships (CGS) awards a range of financial assistance to Harvard students. CGS funding is very competitive—admitted applicants and current students from across Harvard are eligible. These scholarships range in amount—typically a few thousand dollars—and are meant to provide supplementary funding. **Apply** Application details, contact information, and a full list of fellowship and restricted scholarship opportunities are available on the [CGS website](https://scholarships.harvard.edu/)
+
+:::
+:::
+:::
+
+## #4 - University of California - Berkeley (Berkeley, CA)
+
+::: {.l-page}
+::: {.panelset}
+::: {.panel}
+### About {.panel-name}
+
+**UNSWR Rank 2022:** 3rd (tie)
+
+UC Berkeley is located in Berkeley, CA home to the Goldman School of Public Policy. The school offers the following degrees: Master of Public Policy (MPP), Master of Public Affairs (MPA), Master of Development Practice (MDP). 
+
+**School Website:** https://gspp.berkeley.edu/programs
+
+:::
+
+:::{.panel}
+#### Cost of Attendance {.panel-name}
+
+**Application Fee:** $120 
+
+**Application Fee Waiver:** https://grad.berkeley.edu/admissions/steps-to-apply/apply/fee-waiver/
+
+**Annual Tuition & Fees:** $44,884.50 [more information](https://registrar.berkeley.edu/tuition-fees-residency/tuition-fees/fee-schedule/)
+
+**Annual Living Expenses:** $20,118.00 [more information](https://financialaid.berkeley.edu/how-aid-works/student-budgets-cost-of-attendance/)
+
+:::
+
+::: {.panel}
+#### Scholarships/Fellowships {.panel-name}
+
+**Priority Aid Deadline:** December 1st
+
+**Scholarships Website:** https://gspp.berkeley.edu/programs/masters-of-public-affairs-mpa/tuition-and-financial-assistance/financial-assistance
+
+**Graduate Fellowships Website:** https://grad.berkeley.edu/financial/options-for-financial-support/fellowships/
+
+**About Funding:**
+Funding for your education at UC Berkeley comes from a variety of sources. However, the Goldman School itself does not offer large comprehensive fellowships for masters candidates. Smaller scholarships and financial aid may be available through the general graduate school financial office or external opportunities. 
+
+:::
+:::
+:::
+
+## #5 - University of Georgia (Athens, GA)
+
+::: {.l-page}
+::: {.panelset}
+::: {.panel}
+### About {.panel-name}
+
+**UNSWR Rank 2022:** 3rd (tie)
+
+The University of Georgia is located in Athens, GA home to the School of Public and International Affairs. The school offers the following degrees: MA in Political Science and International Affairs, Masters of International Policy (MIP), Masters of Public Administration (MPA). 
+
+**School Website:** https://spia.uga.edu/graduate/
+
+:::
+
+:::{.panel}
+#### Cost of Attendance {.panel-name}
+
+**Application Fee:** $75
+
+**Application Fee Waiver:** https://grad.uga.edu/index.php/prospective-students/domestic-application-information/requirements/application-fee/
+
+**Annual Tuition & Fees:** $$26,226.00 [more information](https://osfa.uga.edu/costs/)
+
+**Annual Living Expenses:** $19,474.00 [more information](https://osfa.uga.edu/costs/)
+
+:::
+
+::: {.panel}
+#### Scholarships/Fellowships {.panel-name}
+
+**Priority Aid Deadline:** January 15th
+
+**Financial Aid Website:** https://osfa.uga.edu/types-of-aid/graduate/
+
+**About Funding:**
+Funding for your education at the University of Georgia SPIA comes from a variety of sources. However, the SPIA itself does not offer large comprehensive fellowships for masters candidates. Smaller scholarships and financial aid may be available through the general graduate school financial office or external opportunities. 
 
 
 :::
 :::
 :::
+
+## #6 - University of Southern California (Los Angeles, CA)
+
+::: {.l-page}
+::: {.panelset}
+::: {.panel}
+### About {.panel-name}
+
+**UNSWR Rank 2022:** 3rd (tie)
+
+The University of Southern California (USC) is located in Los Angeles, CA home to the Price School of Public Policy. The school offers the following degrees: Master of Health Administration (MHA), Master of Nonprofit Leadership and Management (MNLM), Master of Public Administration (MPA), Master of Public Policy (MPP), Master of International Public Policy and Management (IPPAM), Master of Urban Planning (MUP). 
+
+**School Website:** https://priceschool.usc.edu/programs/#masters
+
+:::
+
+:::{.panel}
+#### Cost of Attendance {.panel-name}
+
+**Application Fee:** $90
+
+**Application Fee Waiver:** https://gradadm.usc.edu/lightboxes/us-students-fee-waivers/
+
+**Annual Tuition & Fees:** $45,861 [more information](https://priceschool.usc.edu/mpa/admission/tuition/)
+
+**Annual Living Expenses:** $24,580.00 [more information](https://financialaid.usc.edu/graduates/how-much-wil-my-education-cost.html)
+
+:::
+
+::: {.panel}
+#### Scholarships/Fellowships {.panel-name}
+
+**Priority Aid Deadline:** December 15th
+
+**Financial Aid Website:** https://priceschool.usc.edu/students/financial-aid/
+
+**1. Dean’s Merit Scholarships** - **Award** Awards generally range from half to full tuition and are renewed for the second year assuming satisfactory academic progress. **Details** Scholarships based on academic merit awarded to students entering the MHA, MPA, MPL, MPP, and MNLM programs in the fall semester **Apply** To apply, please complete the Dean’s Merit Scholarship Application which is part of the USC Graduate Application for Admission. Application deadline: December 15 for fall enrollment. 
+
+**2. Price Community Impact Scholarship ** - **Award** $10,000 scholarship that will be awarded at $5,000 per year for two years. **Details** The scholarships are intended to financially assist those who have made contributions to our professional community in attaining one of the Price master’s degree programs offered at the University Park Campus in Los Angeles. Students with several years’ work experience, as well as those early in their careers whose contributions may have been through volunteer work, are encouraged to apply.  **Apply** Seperate Application available in December.
+
+**3. City/County Management Fellowship Program Scholarships ** -  **Award** half to full tuition. **Details** Scholarships based on academic merit awarded to students entering the MPA program who express an interest in a career in local government. City/County Management Fellows are mentored by and participate in meetings and programs hosted by the City/County Management Board, a group of influential city and county managers. In addition, the Board provides stipends for conference travel. **Apply** To apply, please complete the City/County Management Fellowship Application which is part of the USC Graduate Application for Admission. Application deadline: December 15 for fall enrollment.
+
+**4. USC Price Leadership in Diversity Scholarships ** - **Award** Full Tuition. **Details** The Price School Leadership in Diversity Fellowships recognize entering graduate students who demonstrate strong leadership abilities and a commitment to diversity, inclusion, and social justice. Students entering the Master of Health Administration, Master of Nonprofit Leadership and Management, Master of Planning, Master of Public Administration, and Master of Public Policy programs will be considered. **Apply** To apply, students must complete the Dean’s Merit Scholarship and Leadership in Diversity Fellowship application, which are part of the USC Graduate Application for Admission. Applicants who are not selected for this fellowship will receive consideration for Dean’s Merit Scholarships. Application deadline: December 15 for fall enrollment.
+
+:::
+:::
+:::
+
+## #7 - University of Washington (Seattle, WA)
+
+::: {.l-page}
+::: {.panelset}
+::: {.panel}
+### About {.panel-name}
+
+**UNSWR Rank 2022:** 3rd (tie)
+
+The University of Washington (UW) is located in Seattle, WA home to the Evans School of Public Policy and Governance. The school offers the following degrees: Masters in Public Administration (MPA). 
+
+**School Website:** https://evans.uw.edu/academic-programs/masters-degrees-in-public-administration/
+
+:::
+
+:::{.panel}
+#### Cost of Attendance {.panel-name}
+
+**Application Fee:** $85
+
+**Application Fee Waiver:** https://gradadm.usc.edu/lightboxes/us-students-fee-waivers/https://grad.uw.edu/admission/application-fee-waivers/
+
+**Annual Tuition & Fees:** $44,430.00 [more information](https://evans.uw.edu/admissions/tuition/#1589259917229-f44b7c43-0527)
+
+**Annual Living Expenses:** $19,866.00 [more information](https://evans.uw.edu/admissions/tuition/#1589259917229-f44b7c43-0527)
+
+:::
+
+::: {.panel}
+#### Scholarships/Fellowships {.panel-name}
+
+**Priority Aid Deadline:** December 1st
+
+**Scholarships Website:** https://grad.uw.edu/graduate-student-funding/funding-information-for-students/fellowships/list-of-fellowships/
+
+**1. General Evans Merit-Based Fellowships** - **Award** Varies, Applicants may also be considered for funding to support their internship experience during the MPA program.  **Details** Fellowships are awarded annually, at time of admission, to selected students in each year’s incoming class. Consideration is primarily based on academic achievement and/or excellence in public service. Over the past several years, nearly 30% of incoming MPA students enter the program with an Evans School merit-based fellowship award.  **Apply** Your application for admission to the Evans School is also your application for fellowship funding. No separate application is available for fellowships at the Evans School. 
+
+**2. Graduate Assistantships ** - **Award** Some, but not all, 20 hour per week assistantships provide a tuition waiver and health insurance through the Graduate Appointee Insurance Program (GAIP). Your offer letter from the hiring department will confirm the length of employment, salary and benefits eligibility **Details** Teaching Assistant (TA): work with students in a classroom, lab, or quiz section setting, Research Assistant (RA): work on research projects; does not involve teaching, Graduate Staff Assistant (GSA): other types of duties such as advising or administration.  **Apply** At the UW, academic student employees (ASEs) are hired directly by the employing department. Each department conducts its own individual hiring process and their assistantship job postings will state what is required to be considered for such positions.
+
+**3. Diversity Fellowships ** -  **Award** Varies. **Details** The Graduate School and GO-MAP are committed to supporting underrepresented students throughout every aspect of graduate education, including academic, financial, professional, and social support. We work with various partners to ensure graduate students admitted to the University of Washington are given ample opportunity to succeed.  **Apply** Eligible by nomination from department, GO-MAP encourages the nomination of underrepresented graduate students with strong academic achievement in the face of social, economic, and/or educational disadvantages.
+
+:::
+:::
+:::
+
+## #8 - University of Chicago (Chicago, IL)
+
+::: {.l-page}
+::: {.panelset}
+::: {.panel}
+### About {.panel-name}
+
+**UNSWR Rank 2022:** 8th (tie)
+
+The University of Chicago (UC) is located in Chicago, IL home to the Harris School of Public Policy. The school offers the following degrees: Masters in Public Policy (MPP), MS in Computational Analysis and Public Policy (MSCAPP), MA in Public Policy with Certificate in Research Methods (MACRM), MA in Public Policy (MA).
+
+**School Website:** https://harris.uchicago.edu/academics/degrees
+
+:::
+
+:::{.panel}
+#### Cost of Attendance {.panel-name}
+
+**Application Fee:** $100
+
+**Application Fee Waiver:** https://grad.uchicago.edu/admissions/apply/guidelines-and-deadlines/
+
+**Annual Tuition & Fees:** $75,435.00 (3 Quarters) [more information](https://bursar.uchicago.edu/university-students-managing-your-student-account/harris-school-of-public-policy-2-2-2-2/)
+
+**Annual Living Expenses:** $31,902.00 [more information](https://financialaid.uchicago.edu/graduate/costs/cost-attendance)
+
+:::
+
+::: {.panel}
+#### Scholarships/Fellowships {.panel-name}
+
+**Priority Aid Deadline:** December 1st
+
+**Scholarships Website:** https://harris.uchicago.edu/admissions/financing-your-degree/scholarships-fellowships
+
+**1. The Pearson Fellowship** - **Award** Varies.  **Details** Pearson Fellows attend private seminars with policy leaders and practitioners in the policy fields of conflict and development, as well as with Pearson faculty members and relevant academics outside of the University of Chicago. Established in 2015, The Pearson Institute for the Study and Resolution of Global Conflicts promotes discussion, understanding, and resolution of global conflicts through research, education and engagement with the global policy community. **Apply** When you apply to the MPP program at Harris, there is an optional essay question about global conflict. By answering this question, you will be considered for the Fellowship. 
+
+**2. Wendt Fellowship ** - **Award** up to $42,500 **Details** Wendt Fellowships are awarded to students who demonstrate exceptional leadership skills, a strong academic record, and interest in public service.  **Apply** Automatically considered with application.
+
+**3. King Harris Fellowship ** -  **Award** up to $22,000 and an opportunity to network with Mr. Harris.  **Details** King Harris Fellows are selected for their passion to pursue public policy and their strong academic records. **Apply** 
+
+**4. Irving B. Harris Fellowship ** - **Award** may cover up to the full cost of tuition and a living stipend. **Details** Irving B. Harris’s true passion was improving the lives of children through innovative solutions to wide ranging social problems. He believed that societal tensions could be alleviated through effective social policies and wanted to see the country’s brightest young leaders apply their skills to address these challenges. Thus, Harris supported the creation of the School of Public Policy at the University of Chicago and provided significant financial support for students. In his honor, the top admitted students, based on merit and strength of application, are awarded an Irving B. Harris Fellowship. **Apply** Preference is given to applicants who demonstrate a strong interest/background in child and family policy areas. Recipients are expected to engage in activities that support Harris and its community.
+
+More listed on scholarship website. May have to do additional research for award amounts and eligibility.
+
+:::
+:::
+:::
+
+## #9 - University of Michigan (Ann Arbor, MI)
+
+::: {.l-page}
+::: {.panelset}
+::: {.panel}
+### About {.panel-name}
+
+**UNSWR Rank 2022:** 8th (tie)
+
+The University of Michigan (UM) is located in Ann Arbor, MI, home to the Ford School of Policy. The school offers the following degrees: Masters in Public Policy (MPP) and Master in Public Administration (MPA) 
+
+**School Website:** https://fordschool.umich.edu/programs-courses
+
+:::
+
+:::{.panel}
+#### Cost of Attendance {.panel-name}
+
+**Application Fee:** $75
+
+**Application Fee Waiver:** https://fordschool.umich.edu/mpp-mpa/admissions/fee-waiver
+
+**Annual Tuition & Fees:** $51,936.00 [more information](https://fordschool.umich.edu/admissions/cost-financial-support)
+
+**Annual Living Expenses:** $$24,764.00 [more information](https://fordschool.umich.edu/admissions/cost-financial-support)
+
+:::
+
+::: {.panel}
+#### Scholarships/Fellowships {.panel-name}
+
+**Priority Aid Deadline:** January 15th
+
+**Scholarships Website:** https://fordschool.umich.edu/mpp-mpa/funding
+
+**1. Gerald R. Ford Presidential Fellowship** - **Award** Full tuition, a generous stipend, internship funding, and professional development activities. **Details** Gerald R. Ford Presidential Fellows exemplify the president’s commitment to bipartisan cooperation and civility, be deeply and positively engaged in community service, and intend to pursue a lifelong career in the public sector. In President Ford’s name, these fellows will go on to build their own legacies, serving the interests of our state and nation by analyzing issues creatively and objectively, identifying actionable policy solutions, and building bipartisan consensus. **Apply** All admitted MPP students are automatically considered for this fellowship.
+
+**2. The Weill Youth Policy Fellowship ** - **Award** two years of full tuition, a stipend, and health and dental care. **Details** The Youth Policy Fellow is chosen for their scholarly excellence and strong interest to make an impact in youth or education policy. The Fellow will work closely with Professor Brian Jacob and complete an internship with a Youth Policy Lab partner organization. **Apply** All admitted MPP students are automatically considered for this fellowship.
+
+**3. Merit-based fellowships ** -  **Award** Funding ranges from $5,000 per year to full– tuition packages **Details** Varies. **Apply** All applicants to the Ford School are considered
+
+**4. Weiser Diplomacy ** - **Award** Students receive up to $25,000 per year, which is up to $12,500 in tuition support each semester for a maximum of two years of graduate study in international policy or international economic development. **Details** The Weiser Diplomacy Center is pleased to offer several Weiser Diplomacy Fellowships that will fund admitted MPP or MPA students with demonstrated academic achievement who express deep interest in pursuing knowledge and practical policy skills related to diplomacy and foreign affairs in areas including international security, development, and/or human rights. **Apply** Complete seperate application by March after being accepted to the graduate school.
+
+:::
+:::
+:::
+
+## #10 - American University (Washington, DC)
+
+::: {.l-page}
+::: {.panelset}
+::: {.panel}
+### About {.panel-name}
+
+**UNSWR Rank 2022:** 10th (tie)
+
+American University (AU) is located in Washington DC, home to the AU School of Public Affairs. The school offers the following degrees: Masters in Public Policy (MPP), Master in Public Administration (MPA), Masters of Arts in Political Science (MA), Masters of Arts in Political Communication (MA)
+
+**School Website:** https://www.american.edu/spa/degrees.cfm
+
+:::
+
+:::{.panel}
+#### Cost of Attendance {.panel-name}
+
+**Application Fee:** $55
+
+**Application Fee Waiver:** https://www.american.edu/spa/admissions/apply-to-spa.cfm#application-requirements
+
+**Annual Tuition & Fees:** $34,992.00 [more information](https://www.american.edu/spa/admissions/tuition.cfm)
+
+**Annual Living Expenses:** $X.XX (no information available)
+
+:::
+
+::: {.panel}
+#### Scholarships/Fellowships {.panel-name}
+
+**Priority Aid Deadline:** February 15th
+
+**Scholarships Website:** https://www.american.edu/spa/admissions/funding-resources.cfm#scholarships-amp-fellowships
+
+**1. Donor Funded Scholarships** - **Award** Varies. **Details** The Alice Lee and Lau King Quan Award (Health Policy), Anita F. Alpern Scholarship Fund (Public Service), Bernard Rosen (Government Service), Bernard H. Ross Public Administration Scholarship (Community Service), Daniel Greeley Memorial Scholarship. **Apply** Automatically considered with application to program.
+
+**2. William K. Reilly Fund for Environmental Governance and Leadership ** - **Award** Varies. **Details** Supports a student scholarship, an annual lecture series, and core program development activities for the center. The Reilly Fund also supports the William K. Reilly Environmental Leadership Award, which recognizes leaders in environmental governance and problem solving. **Apply** Automatically considered with application to program.
+
+**3. USAID Donald M. Payne International Development Graduate Fellowship Program** -  **Award** Full tuition remission & Stipend **Details** Payne Fellows that are admitted will receive an attractive financial package. The SPA Merit Award in combination with the Fellowship annual tuition remission and stipend will guarantee full tuition coverage for a fully enrolled Fellow in SPA’s Master of Public Administration (MPA), Master of Public Policy (MPP), M.S. in Justice, Law & Criminology, M.S. in Terrorism & Homeland Security Policy, M.A. in Political Science, M.A. in Political Communication. Payne Fellows are also eligible for consideration for graduate assistantships and donor-funded scholarships that can enhance the robust financial package. **Apply** Apply Externally https://www. paynefellows.org/
+
+**4. External Scholarships** - **Award** Varies. **Details** Charles B. Rangel International Affairs Program, Thomas R. Pickering Foreign Affairs Fellowship **Apply** Must apply externally.
+
+:::
+:::
+:::
+
+## #11 - University of Texas - Austin (Austin, TX)
+
+::: {.l-page}
+::: {.panelset}
+::: {.panel}
+### About {.panel-name}
+
+**UNSWR Rank 2022:** 10th (tie)
+
+University of Texas - Austin (UT) is located in Austin, TX, home to the Lyndon B. Johnson (LBJ) School of Public Affairs. The school offers the following degrees: Master in Public Affairs (MPA) and Masters of Global Policy Studies.
+
+**School Website:** https://lbj.utexas.edu/degree-programs-lbj-school-public-affairs
+
+:::
+
+:::{.panel}
+#### Cost of Attendance {.panel-name}
+
+**Application Fee:** $125
+
+**Application Fee Waiver:** https://gradschool.utexas.edu/how-to-apply
+
+**Annual Tuition & Fees:** $34,992.00 [more information](https://onestop.utexas.edu/managing-costs/cost-tuition-rates/)
+
+**Annual Living Expenses:** $21,796.00 [more information](https://onestop.utexas.edu/managing-costs/cost-tuition-rates/)
+
+:::
+
+::: {.panel}
+#### Scholarships/Fellowships {.panel-name}
+
+**Priority Aid Deadline:** December 1st
+
+**Scholarships Website:** https://lbj.utexas.edu/funding-your-graduate-education
+
+**1. General LBJ Fellowships** - **Award** Varies. **Details** There are three (3) types: stipends paid directly to the student, tuition paid directly to The University of Texas at Austin on behalf of the student awarded, tuition waivers that waive the out-of-state portion of the tuition billed. **Apply** Automatically considered for merit based fellowships during the admissions review process as long as funding remains available. No additional application is required. If you receive an admissions fellowship, you will be notified with your admissions offer. 
+
+**2. Elspeth D. Rostow Public Service Fellowship ** - **Award** $3,000. **Details** The Elspeth D. Rostow Memorial Graduate Fellowship annually recognizes students who actively engage in opportunities to serve the public while pursuing an LBJ Master’s degree. The fellowship is awarded on a competitive basis to one second-year student who has demonstrated a superior commitment to public service through his or her work (campus leadership, volunteer work, internship, and employment) in communities – local, domestic, and abroad. **Apply** Apply during the first year.
+
+:::
+:::
+:::
+
+## #12 - Arizona State University (Tempe, AZ)
+
+::: {.l-page}
+::: {.panelset}
+::: {.panel}
+### About {.panel-name}
+
+**UNSWR Rank 2022:** 12th (tie)
+
+Arizona State University is located in Tempe, AZ, home to the School of Public Affairs (SPA). The school offers the following degrees: Master in Public Affairs (MPA) and Masters of Public Policy (MPP).
+
+**School Website:** https://spa.asu.edu/programs/graduate?field_asu_ap_campus_value=All&field_asu_ap_value_1=1
+
+:::
+
+:::{.panel}
+#### Cost of Attendance {.panel-name}
+
+**Application Fee:** $70
+
+**Application Fee Waiver:** No Fee Waivers Available
+
+**Annual Tuition & Fees:** $24,498.00 [more information](https://admission.asu.edu/aid/graduate)
+
+**Annual Living Expenses:** $21,300.00 [more information](https://admission.asu.edu/aid/graduate)
+
+:::
+
+::: {.panel}
+#### Scholarships/Fellowships {.panel-name}
+
+**Priority Aid Deadline:** July 1st
+
+**Scholarships Website:** https://graduate.asu.edu/current-students/funding-opportunities/awards-and-fellowships
+
+
+Graduate programs at ASU can nominate students for or apply for the following fellowships and awards, both merit-based and need-based, administered and funded by the Graduate College. Students can not apply directly to these funding opportunities.
+
+:::
+:::
+:::
+
+## #13 - Carnegie Mellon University (Pittsburg, PA)
+
+::: {.l-page}
+::: {.panelset}
+::: {.panel}
+### About {.panel-name}
+
+**UNSWR Rank 2022:** 12th (tie)
+
+Carnegie Mellon University is located in Pittsburgh, PA, home to the Heinz College of Information Systems and Public Policy. The school offers the following degrees: Master of Science in Public Policy & Management (MSPPM), MSPPM: Data Analytics, Master of Science in Health Care Policy & Management (MSHCPM), Master of Public Management (MPM), and MSPPM: Global. 
+
+**School Website:** https://www.heinz.cmu.edu/programs/
+
+:::
+
+:::{.panel}
+#### Cost of Attendance {.panel-name}
+
+**Application Fee:** None (FREE)
+
+**Application Fee Waiver:** FREE
+
+**Annual Tuition & Fees:** $53,458.00 [more information](https://www.cmu.edu/sfs/tuition/graduate/heinz/msppm.html)
+
+**Annual Living Expenses:** $26,982.00 [more information](https://www.cmu.edu/sfs/tuition/graduate/heinz/msppm.html)
+
+:::
+
+::: {.panel}
+#### Scholarships/Fellowships {.panel-name}
+
+**Priority Aid Deadline:** December 1st
+
+**Scholarships Website:** https://www.heinz.cmu.edu/programs/public-policy-management-master/financial-aid-and-scholarships-msppm
+**1. Dean's Diversity Fellowships ** - **Award** ranging from one-half tuition to full tuition along with a $6,000 per year assistantship. **Details** to students who exemplify a strong commitment to the improvement of race-related issues in the United States. 
+
+**2. Heinz Fellowships ** - **Award** ranging from one-half tuition and a $6,000 research assistantship. **Details** To students committed to working in careers focused on serving the public interest. 
+
+**3. Heinz Fellowship in Economic Development ** - **Award** Ranging from one-half tuition to full tuition and $1,000 in conference or workshop support for a student's second year at Heinz College. **Details** To be eligible, you must be a U.S. citizen, and have demonstrated a strong commitment to economic development either in your previous academic work or during your professional career, and choose "Regional Economic Development" as your area of interest within the application for admission. **Apply** Encourage you to use the standard essay, optional essay, or optional video essay to express your interest in the fellowship. 
+
+**4. Tribal Affairs Fellowship ** - **Award** ranging from one-half tuition to full tuition and a $6,000 per year research assistantship. **Details** to students committed to promoting the advancement of the American Indian population and tribal affairs. 
+
+**5. Women in Intelligent Transportation Fellowship ** - **Award** full tuition and a $6,000 annual stipend for their work as an intern with Heinz College’s Traffic21 Institute. **Details** The fellowship program was established as part of Heinz College's commitment to promoting diversity in the field of Intelligent Transportation Systems. Preference will be given to (i) students who have selected “Transportation” as their area of interest within the application for admission, (ii) students who have demonstrated interest and commitment to the promotion of women in smart transportation, (iii) students with a major/minor in gender studies/ theory, (iv) graduates of HBCU’s and HSI’s, (v) students who are first in their family to attend graduate school, and/or (vi) students for whom English is their second language.
+
+**6. David Lingren Fellowship for Social Innovation ** - **Award** Full tuition and work study award ($5,000 per academic year) for this work. **Details** Work with Leah Lizarondo, Entrepreneur in Residence at the Block Center for Technology and Society. The Lingren Fellow’s work with the Block Center would be centered on taking ideas that respond to societal needs and frame it within a sustainable business structure.
+
+**7. The Neighborhood Allies Fellowship ** - **Award** Full tuition and paid part time fellowship. **Details** The Neighborhood Allies Fellowship is awarded to outstanding students enrolling in the MSPPM degree program who have demonstrated an interest and commitment to community development in underserved communities. See the Neighborhood Allies website for more information on the organization's mission and work within the Pittsburgh community.
+
+:::
+:::
+:::
+
+## #14 - Georgetown University (Washington, DC)
+
+::: {.l-page}
+::: {.panelset}
+::: {.panel}
+### About {.panel-name}
+
+**UNSWR Rank 2022:** 12th (tie)
+
+Georgetown University is located in Washington DC, home to the McCourt School Public Policy. The school offers the following degrees: Master of Public Policy (MPP), Master of Science in Data Science for Public Policy, Master of International Development Policy (MIDP), and Master of Policy Management (MPM).
+
+**School Website:** https://mccourt.georgetown.edu/programs/degree-programs/
+
+:::
+
+:::{.panel}
+#### Cost of Attendance {.panel-name}
+
+**Application Fee:** $90
+
+**Application Fee Waiver:** http://mccourtadmissions@georgetown.edu./
+
+**Annual Tuition & Fees:** $59,895.00 [more information](https://finaid.georgetown.edu/graduate/aid-by-program/2022-23-graduate-program-cost-of-attendance/#Full-Time%20Public%20Policy)
+
+**Annual Living Expenses:** $28,370.00 [more information](https://finaid.georgetown.edu/graduate/aid-by-program/2022-23-graduate-program-cost-of-attendance/#Full-Time%20Public%20Policy)
+
+:::
+
+::: {.panel}
+#### Scholarships/Fellowships {.panel-name}
+
+**Priority Aid Deadline:** January 15th
+
+**Scholarships Website:** https://mccourt.georgetown.edu/admissions/cost-aid-assistance/scholarships-assistantships/
+
+**1. McCourt Scholars ** - **Award** Full tuition, mandatory fees, a stipend, and health insurance . **Details** The McCourt Scholars are a select group of promising future policy makers and scholars whose background, experience, and academic excellence qualify them for this prestigious award. Each year, five incoming students are nominated as McCourt Scholars based on the strength of their applications to the McCourt School. The McCourt Scholars are a select group of promising future policy makers and scholars whose background, experience, and academic excellence qualify them for this prestigious award. Each year, five incoming students are nominated as McCourt Scholars based on the strength of their applications to the McCourt School. **Apply** All full-time MPP, MPM, MIDP, and MS-DSPP who apply by the December 1 or January 15 deadline are eligible to be considered for the McCourt Scholars program. Although no additional application is required, candidates in consideration for the McCourt Scholarship will be contacted and interviewed by a selection committee. 
+
+**2. Merit Based Scholarships ** - **Award** Varies. **Details** The McCourt School offers merit-based scholarship funding. All MPP, MPM, MIDP, and MS-DSPP admitted students (including part-time students) are eligible to be considered for merit-based assistance as long as they submit their application by the Early Action (December 1) or Priority (January 15) deadlines. **Apply** Awards are based on a candidate’s grades, test scores, professional and lived experience, community service/volunteerism, and overall strength of application. 
+
+:::
+:::
+:::
+
+## #15 - George Washington University (Washington, DC)
+
+::: {.l-page}
+::: {.panelset}
+::: {.panel}
+### About {.panel-name}
+
+**UNSWR Rank 2022:** 12th (tie)
+
+George Washington University is located in Washington DC, home to the McCourt School Public Policy. The school offers the following degrees: Master of Public Policy (MPP), Master of Public Administration (MPA), and Master of Arts in Environmental Resource Policy (MA).
+
+**School Website:** https://tspppa.gwu.edu/
+
+:::
+
+:::{.panel}
+#### Cost of Attendance {.panel-name}
+
+**Application Fee:** $80
+
+**Application Fee Waiver:** https://tspppa.gwu.edu/masters-degree-admission-requirements
+
+**Annual Tuition & Fees:** $39,610.00 [more information](https://tspppa.gwu.edu/cost-aid)
+
+**Annual Living Expenses:** $31,700.00 [more information](https://financialaid.gwu.edu/how-estimate-your-total-cost-attendance-gw)
+
+:::
+
+::: {.panel}
+#### Scholarships/Fellowships {.panel-name}
+
+**Priority Aid Deadline:** February 1st
+
+**Scholarships Website:** https://tspppa.gwu.edu/fellowships-aid-support
+
+All applicants who indicate interest on their application and submit by the February 1 deadline are automatically considered for partial tuition fellowships and assistantships within the Trachtenberg School. No other application is required for consideration. For more information about what these fellowships and assistantships look like, please email your questions to tsadmit@gwu.edu.
+
+**1.  Merit Based Awards ** - **Award** Partial tuition fellowships and assistantships. **Apply** All applicants who indicate interest in their application and submit by the February 1 deadline are automatically considered. 
+
+**2. The Wolcott Foundation Fellowship ** - **Award** Maximum award covers tuition and fees for 40 credit hours. **Details** Intended for students with outstanding academic, civic, and social credentials who are pursuing public service careers. requires 4 years of employment in federal, state, or local level government services upon graduation.
+
+:::
+:::
+:::
+
+## #16 - New York University (NYC, NY)
+
+::: {.l-page}
+::: {.panelset}
+::: {.panel}
+### About {.panel-name}
+
+**UNSWR Rank 2022:** 12th (tie)
+
+New York University is located In NYC, NY, home to the Wagner School of Policy. The School offers the following degrees: Master of Public Administration - Public & Nonprofit Management & Policy, Master of Public Administration - Health Policy & Management, and Master of Science in Public Policy.
+
+**School Website:** https://wagner.nyu.edu/education/degrees
+
+:::
+
+:::{.panel}
+#### Cost of Attendance {.panel-name}
+
+**Application Fee:** $85
+
+**Application Fee Waiver:** https://wagner.nyu.edu/faq/can-i-have-my-application-fee-waived
+
+**Annual Tuition & Fees:** $50,926.00 [more information](https://wagner.nyu.edu/admissions/financial-aid)
+
+**Annual Living Expenses:** $36,817.00 [more information](https://wagner.nyu.edu/admissions/financial-aid)
+
+:::
+
+::: {.panel}
+#### Scholarships/Fellowships {.panel-name}
+
+**Priority Aid Deadline:** November 29th
+
+**Scholarships Website:** https://wagner.nyu.edu/admissions/financial-aid/fellowships
+
+**1.  Dean's Scholarship  ** - **Award** Full Tuition **Details** Awarded to applicants based on merit and strength of application, regardless of degree program or area of interest. **Apply** Automatically Considered.
+
+**2. Public Service Scholarship ** - **Award** Partial and half-tuition scholarships. **Details** Awarded to applicants based on merit and strength of application, regardless of degree program or area of interest. **Apply** Automatically considered.
+
+**3. Georgina and Charlotte Bloomberg Public Service Fellows Program** - **Award** Full-tuition scholarships for full-time study and funded summer internships. **Details** The Georgina and Charlotte Bloomberg Public Service Fellows Program prepares high-potential students with the skills, knowledge, and networks to be impactful public service leaders. Internships will be supported by professional development programming, reflective assessments from students, and site visits by NYU Wagner. Career guidance will be available for all Bloomberg Fellows, and they will be connected to Bloomberg Philanthropies’ network of mayors and government leaders for work opportunities and one-on-one mentoring.A key element of the program is the development of a cohesive network of leaders. The Bloomberg Fellows will meet throughout the year, outside the classroom, to get first-hand exposure to the forces shaping U.S. urban communities in the 21st century. **Apply** Submit your Fellowship Application Essay along with your online application to NYU Wagner. Fellowship applicants must also submit a one minute video essay. 
+
+**4. The Bohnett Fellowship ** - **Award** Full tuition scholarship, as well as a $5,000 summer stipend and internship opportunity for two incoming MPA or MUP students each academic year. **Details** The opportunity to engage in the challenges of governing at the city level. Bohnett Fellows network with mayors from across the country and Bohnett Fellows from other schools when they attend the annual winter meeting of the U.S. Conference of Mayors in Washington DC accompanied by a faculty. Fellows also participate in a summer internship at the highest levels of NYC government or in the Mayor's office of another US city through the US Conference of Mayors, which has an ongoing partnership with NYU Wagner. **Apply** Submit your Fellowship Application Essay along with your online application to NYU Wagner. Fellowship applicants must also submit the one minute video essay in order to be considered for fellowship..
+
+**5. The Lisa Ellen Goldberg Fellowship ** - **Award** Full Tuition **Details** Supports rising, visionary leaders in public service who seek careers in public service, philanthropy, or Jewish Leadership. **Apply** Submit your Fellowship Application Essay along with your online application to NYU Wagner. Fellowship applicants must also submit the one minute video essay in order to be considered for fellowship. 
+
+**6. Henry Hart Rice Urban Studies Fellowship ** - **Award** Full tuition scholarship and a stipend for an unpaid summer internship. **Details** Awarded to outstanding students who demonstrate a commitment to bringing their scholarship and expertise to bear upon significant urban issues. **Apply** Submit your Fellowship Application Essay along with your online application to NYU Wagner. Fellowship applicants must also submit a one minute video essay.
+
+:::
+:::
+:::
+
+## #17 - Princeton University (Princeton, NJ)
+
+::: {.l-page}
+::: {.panelset}
+::: {.panel}
+### About {.panel-name}
+
+**UNSWR Rank 2022:** 12th (tie)
+
+Princeton University is located In Princeton, NJ, home to the Princeton School of Public and International Affairs. The School offers the following degrees: Master in Public Affairs (MPA) and Master of Public Policy (MPP).
+
+**School Website:** https://spia.princeton.edu/graduate-programs
+
+:::
+
+:::{.panel}
+#### Cost of Attendance {.panel-name}
+
+**Application Fee:** $75
+
+**Application Fee Waiver:** https://gradschool.princeton.edu/admission/applying-princeton/deadlines-and-fees/application-fee-waivers
+
+**Annual Tuition & Fees:** $58,790.00 [more information](https://spia.princeton.edu/graduate-admissions/master-public-policy/financial-aid)
+
+**Annual Living Expenses:** $28,579.00 [more information](https://gradschool.princeton.edu/costs-funding/tuition-and-costs)
+
+:::
+
+::: {.panel}
+#### Scholarships/Fellowships {.panel-name}
+
+**Priority Aid Deadline:** December 1st
+
+**Scholarships Website:** https://spia.princeton.edu/graduate-admissions/master-public-affairs/financial-aid
+
+The Princeton School of Public and International Affairs’ generous financial support enables students to earn graduate degrees without incurring tuition indebtedness, making it more feasible to pursue careers of public service in the public and nonprofit sectors.
+
+All MPA students receive 100% of tuition and required fees support. Additionally, the School offers a need-based stipend for living expenses for two years of study. The admissions process is need-blind and does not consider an applicant’s financial resources in admissions decisions. Applicants must complete the Statement of Financial Resources as a part of the online application.
+
+Tuition and stipend are covered by the School in the form of grants in combination with any external fellowships and institutional sponsorships an applicant may already have.
+
+The tuition and health plan fee for the 2021-22 academic year is $58,790.
+
+:::
+:::
+:::
+
+## #18 - University of California - Los Angeles (Los Angeles, CA)
+
+::: {.l-page}
+::: {.panelset}
+::: {.panel}
+### About {.panel-name}
+
+**UNSWR Rank 2022:** 12th (tie)
+
+University of California - Los Angeles is located In Los Angeles, CA home to the Luskin School of Public Affairs. The School offers the following degrees: Master of Public Policy (MPP) and Master of Global Public Affairs (MGPA). 
+
+**School Website:** https://luskin.ucla.edu/
+
+:::
+
+:::{.panel}
+#### Cost of Attendance {.panel-name}
+
+**Application Fee:** $120
+
+**Application Fee Waiver:** https://grad.ucla.edu/admissions/faqs/
+
+**Annual Tuition & Fees:** $41,022.30 [more information](https://luskin.ucla.edu/wp-content/uploads/2021/06/Funding-Your-MPP-Degree_June-2021.pdf)
+
+**Annual Living Expenses:** $48,590.00 [more information](https://financialaid.ucla.edu/graduate/cost-of-attendance)
+
+:::
+
+::: {.panel}
+#### Scholarships/Fellowships {.panel-name}
+
+**Priority Aid Deadline:** January 10th
+
+**Scholarships Website:** https://luskin.ucla.edu/public-policy-2/tuition-and-financial-aid#tab-id-2
+
+**1. Research Fellowships for Environmental Justice & Policy Innovation (Luskin Center for Innovation ** - The fellowship value is approximately $6,500 for two quarters, but sometimes more, depending on exact employment placement and project length. If funding permits, LCI may also cover tuition reimbursement. **Details** The Research Fellowship for Environmental Policy Innovation is offered to prospective students with a demonstrated interest in environmental planning and policy analysis. The Research Fellowship for Environmental Justice is offered to prospective students motivated to address environmental racism and other inequities. Encouraged to apply are students of color, first generation students, or others interested in conducting research or applied work in environmental sustainability, including but not limited to the field of environmental justice and equity. **Apply** Prospective students can apply as part of the departments’ standard degree application. Make sure to check the box indicating your interest in receiving a fellowship from the Luskin Center for Innovation. 
+
+**2. ITS Fellowship ** **Award** Varies **Details** The Luskin School houses a branch of the University of California Institute of Transportation Studies, which offers renewable one-year graduate fellowships, research assistantships where students work with faculty on transportation policy research, and financial aid to students attending transportation conferences. Fellowship recipients must be U.S. citizens or permanent residents, must take or waive out of at least four approved transportation policy and planning courses during their studies, and must complete their Applied Policy Project on a transportation-related topic. **Apply** To apply for this fellowship please include a brief statement (half-page double-spaced, 100 words) describing your interest in the transportation policy and planning concentration or any background that you may have in this area.
+
+**3. Need Based Award ** - **Award** $1,000 to $10,000. **Details** The Financial Aid award is determined by the amount of unmet need as assessed by the FAFSA and the UCLA Financial Aid office. **Apply** Students submit a brief statement with an online application form (500 words or less) qualifying their “unmet” financial need, particularly if there are personal circumstances that are not easily assessed by the FAFSA.
+
+**4. David Bohnett Fellowship Program ** - **Award** $35,000.00 **Details** The fellowships are full-time during the summer and part-time during the 9-month academic year. The David Bohnett Fellowship Program was established as a hands-on working experience in the City of Los Angeles Mayor’s Office for exceptionally promising public policy, social welfare, and urban planning students. The Bohnett Fellowship Program will offer students first-hand experience in the highest levels of city government and will provide senior executives in the Mayor’s office with an outstanding cohort of policy interns.
+
+**5. Luskin Leadership Fellowship at the Office of Child Protection, Los Angeles County ** - **Award** $30,000.00 **Details** Luskin Leadership Fellowship is a high-level apprenticeship program for exceptional public policy, social welfare, and urban planning graduate students that serve within selected government agencies and nonprofit and civic organizations to work on research, policy, advocacy and applied projects tailored to the students’ tracks of study and consistent with the mission and goals of the organization. 
+
+:::
+:::
+:::
+
+## #19 - University of Minnesota (Minneapolis, MN)
+
+::: {.l-page}
+::: {.panelset}
+::: {.panel}
+### About {.panel-name}
+
+**UNSWR Rank 2022:** 12th (tie)
+
+University of Minnesota is located in Minneapolis, MN home to the Hubert H. Humphrey School of Public Affairs. The School offers the following degrees: Master of Public Policy (MPP), Master of Public Affairs (MGPA), and Master of Science in Science, Technology, and Environmental Policy (MSSTEP).
+
+**School Website:** https://www.hhh.umn.edu/masters-programs
+
+:::
+
+:::{.panel}
+#### Cost of Attendance {.panel-name}
+
+**Application Fee:** $75
+
+**Application Fee Waiver:** No Fee Waivers Available
+
+**Annual Tuition & Fees:** $28,764.00 [more information](https://onestop.umn.edu/finances/cost-attendance-graduate-students)
+
+**Annual Living Expenses:** $21,660.00 [more information](https://onestop.umn.edu/finances/cost-attendance-graduate-students)
+
+:::
+
+::: {.panel}
+#### Scholarships/Fellowships {.panel-name}
+
+**Priority Aid Deadline:** January 15th
+
+**Scholarships Website:** https://www.hhh.umn.edu/tuition-and-financial-aid
+
+**1. Charles R. Krusell Fellowship ** - **Award** Full tuition support and graduate research assistantships with community development or planning agencies. **Details** Fellowship is designed to increase the supply of highly trained community development professionals from indigenous communities and communities of color, to improve the representation of communities of color in agencies that serve those communities, and provide hands-on work experience to ensure students are prepared to meet the challenges in this ever-evolving field. Students interested in this opportunity will need to apply and submit additional information. **Apply** Applicants admitted to the following Humphrey School degree programs may be considered for nomination: MPP and MURP. Submit a separate application form and 2 page essay by January 15th. 
+
+**2. Dove Fellowship ** - Administered by the Office for Diversity in Graduate Education, the DOVE Fellowship Program seeks to assist graduate programs to promote a diversity of views, experiences, and ideas in pursuit of research, scholarship, and creative excellence. Applicants admitted to the following Humphrey School degree programs may be considered for nomination: MS-STEP and PhD.
+ 
+**3. ICGC ** - The Interdisciplinary Center for the Study of Global Change (ICGC) offers fellowships that provide financial support for graduate students with backgrounds and interests committed to the interdisciplinary study of the Global South in the context of global change. Applicants admitted to the following Humphrey School degree programs may be considered for nomination: MDP, MHR, and PhD.
+ 
+**4. Provost (PEDF) Fellowship ** - The Provost’s Professional Education Diversity Fellowship (PEDF) is intended to assist professional degree programs in promoting a diversity of views, experiences, and ideas through the recruitment and support of academically excellent students with diverse ethnic, racial, economic, and educational backgrounds and experiences. Programs are encouraged to consider students from groups that historically have been underrepresented in their disciplines.MPP, MURP, MHR, and MDP  are eligible for this fellowship.
+
+:::
+:::
+:::
+
+## #20 - Georgia State University (Atlanta, GA)
+
+::: {.l-page}
+::: {.panelset}
+::: {.panel}
+### About {.panel-name}
+
+**UNSWR Rank 2022:** 20th (tie)
+
+Georgia State University is located in Atlanta, GA home to the Andrew Young School of Policy Studies. The School offers the following degrees: Master of Public Policy (MPP) and Master of Public Administration (MPA).
+
+**School Website:** https://aysps.gsu.edu/public-management-policy/master-public-policy/
+
+:::
+
+:::{.panel}
+#### Cost of Attendance {.panel-name}
+
+**Application Fee:** $50
+
+**Application Fee Waiver:** https://dei.gsu.edu/program/application-fee-waiver-policy/
+
+**Annual Tuition & Fees:** $29,018 [more information](https://sfs.gsu.edu/resources/tuition/tuition-breakdown/)
+
+**Annual Living Expenses:** $22,000.00 [more information](https://sfs.gsu.edu/resources/tuition/cost-calculator/)
+
+:::
+
+::: {.panel}
+#### Scholarships/Fellowships {.panel-name}
+
+**Priority Aid Deadline:** February 15th
+
+**Scholarships Website:** https://aysps.gsu.edu/admissions/fellowships-and-scholarships/#grad
+
+**1. Amanda G. Hyatt Fellowship ** - Provides fellowships to enrolled students pursuing a master’s degree with a concentration in nonprofit studies.  Candidates will have shown excellent academic performance in undergraduate, degree-related coursework. They must be and in the first semester of their master’s degree coursework. Students in the first year of study may apply for the fellowship, which will  provide support for their second year of graduate work. [Click here for more information](https://app.gsu.edu/scholarships/search_scholarships.cfm?view_scholarship=1248)
+
+**2. Carole Keels Endowed Scholarship ** - Provides scholarships to eligible graduate students enrolled in a degree program in economics.  Eligibility is based exclusively on merit.  Preference given to non-traditional students. [Click here for more information](https://app.gsu.edu/scholarships/search_scholarships.cfm?view_scholarship=1334)
+
+**3. Center for State and Local Finance Public Finance Fellowship** - The Center for State and Local Finance (CSLF) has established the CSLF Public Finance Fellowship to recognize and support students who have a commitment to innovative, non-partisan state and local public finance research. The fellowship is awarded annually to an incoming or current graduate student in the Andrew Young School of Policy Studies who is pursuing an MPA, MPP or master’s degree in economics. [Click here for more information](http://aysps.gsu.edu/files/2013/12/Fellowship-Description_FY18.pdf)
+
+**4. Claudia Lacson Memorial Endowment ** - Provides funds for rural health program development and for scholarships.  The scholarships associated with this endowment are granted to graduate research assistants for the Health Policy Center in the Andrew Young School of Policy Studies.  It is not a general scholarship available by application. [Click here for more information](https://app.gsu.edu/scholarships/search_scholarships.cfm?view_scholarship=1336)
+
+**5. Dan Sweat Scholarship ** - Provides scholarships to students enrolled in the master of public administration degree program within the Department of Public Management and Policy. Eligibility is based on a combination of scholastic merit and financial need.  Recipients must have completed 20 hours in the degree program with a grade point average of 3.5 or better and be preparing for or further developing a career in public administration. [Click here for more information](https://app.gsu.edu/scholarships/search_scholarships.cfm?view_scholarship=1241)
+
+**A multitude of additional fellowships are listed on the scholarships website at ** https://aysps.gsu.edu/admissions/fellowships-and-scholarships/#grad
+
+:::
+:::
+:::
+
+## #21 - Ohio State University (Marion, OH)
+
+::: {.l-page}
+::: {.panelset}
+::: {.panel}
+### About {.panel-name}
+
+**UNSWR Rank 2022:** 20th (tie)
+
+Ohio State University is located in Marion, OH home to the John Glenn College of Public Affairs. The School offers the following degrees: Master of Public Administration (MPA).
+
+**School Website:** https://gpadmissions.osu.edu/programs/program.aspx?prog=0170
+
+:::
+
+:::{.panel}
+#### Cost of Attendance {.panel-name}
+
+**Application Fee:** $60
+
+**Application Fee Waiver:** https://gpadmissions.osu.edu/resources/fee-waivers.html
+
+**Annual Tuition & Fees:** $38,737.00 [more information](https://gpadmissions.osu.edu/programs/program.aspx?prog=0170#&&tab=costs)
+
+**Annual Living Expenses:** $16,040.00 [more information](https://gpadmissions.osu.edu/programs/program.aspx?prog=0170#&&tab=costs)
+
+:::
+
+::: {.panel}
+#### Scholarships/Fellowships {.panel-name}
+
+**Priority Aid Deadline:** December 1st
+
+**Scholarships Website:** https://glenn.osu.edu/academic-programs/graduate-degrees/masters-program-funding
+
+**1. University Fellowship** - **Award** 1 Year Tuition and Living Stipend **Details**Fellowship students must be in attendance on the Columbus or Wooster campus and be pursuing a graduate degree in the program specified in the fellowship award letter from the Dean of the Graduate School. **Apply** Automatically considered.
+
+**2. Distinguished University Fellowship ** - **Award** 2 Years & Living Stipend **Details** Fellowship students must be in attendance on the Columbus or Wooster campus and be pursuing a graduate degree in the program specified in the fellowship award letter from the Dean of the Graduate School. **Apply** Automatically considered.
+
+
+**3. Graduate Enrichment Fellowship** - **Award** 1 Year Tuition and Living Stipend. **Details** Fellowship students must be in attendance on the Columbus or Wooster campus and be pursuing a graduate degree in the program specified in the fellowship award letter from the Dean of the Graduate School. **Apply** Automatically considered.
+
+**College Awards: Scholarships** - Students who apply by the December 1 priority funding deadline are also eligible for various funding awards including college-level scholarship given by our generous donors. These are awards given through a holistic review process by our faculty. We use all awards to attract academically strong students and diversify our student body using a broad definition of diversity.
+
+:::
+:::
+:::
+
+## #22 - University of North Carolina (Chapel Hill, NC)
+
+::: {.l-page}
+::: {.panelset}
+::: {.panel}
+### About {.panel-name}
+
+**UNSWR Rank 2022:** 20th (tie)
+
+The University of North Carolina (UNC) is located in Chapel Hill, NC home to the School of Government. The School offers the following degrees: Master of Public Administration (MPA).
+
+**School Website:** https://gpadmissions.osu.edu/programs/program.aspx?prog=0170
+
+:::
+
+:::{.panel}
+#### Cost of Attendance {.panel-name}
+
+**Application Fee:** $95
+
+**Application Fee Waiver:** https://gradschool.unc.edu/admissions/feewaiver.html
+
+**Annual Tuition & Fees:** $31,240.00 [more information](https://mpa.unc.edu/tuition-scholarships)
+
+**Annual Living Expenses:** $27,444.00 [more information](https://studentaid.unc.edu/graduate/costs/)
+
+:::
+
+::: {.panel}
+#### Scholarships/Fellowships {.panel-name}
+
+**Priority Aid Deadline:** January 1st
+
+**Scholarships Website:** https://mpa.unc.edu/tuition-scholarships
+
+**1. The Ronald Aycock Public Administration Scholarship ** - **Details**awarded annually to an academically outstanding student who demonstrates a commitment to the study of public service. The scholarship honors Aycock’s more than 30 years of dedicated public service to county governments in North Carolina. **Apply** All on-campus format students are eligible for this scholarship upon admittance into the MPA Program. 
+
+**2. Robert W. Bradshaw Jr. Public Administration Fellowship ** -  **Details** Awarded to an academically outstanding MPA student with a demonstrated desire to pursue a career in public service. The scholarship honors Bradshaw who was a mentor and advisor to many local government officials throughout his career.  **Apply**
+
+
+**3. The Jean D. Coble Scholarship ** - **Details** The scholarship was established to honor Jean Coble, who dedicated 32 years of service to the University of North Carolina at Chapel Hill, 18 of those to the MPA program. **Apply** All students are eligible for this fellowship based on their academic background and areas of interests upon their admittance into the MPA Program.
+
+**4. John Milton Gold Scholarship ** - **Details** Awarded by the North Carolina City and County Management Association (NCCCMA) to an academically outstanding student who has expressed a desire to pursue a career in local government. **Apply** All students are eligible for this scholarship based on their academic background and areas of interests upon their admittance into the MPA Program. However, preference is given to students interested in local government management in North Carolina. 
+
+**Various Others Available** - The Hayman-Howard-Wright Scholarship, The Robert House scholarship, The J. Edward Kitchen Scholarship, The Nanette V. Mengel Scholarship, The Preyer Family Scholarship, The Rothwell Scholarship, The Betsy Ross Howe Stafford Scholarship, The Richard Y. Stevens Scholarship, The A. John Vogt Scholarship, The James L. Westbrook Jr. and Ashley Westbrook Turton Memorial Scholarship, The Paul Wager Scholarship, The Gordon Whitaker Scholarship, The J. Thomas Lundy Leadership in Public Service Scholarship
+
+:::
+:::
+:::
+
+
