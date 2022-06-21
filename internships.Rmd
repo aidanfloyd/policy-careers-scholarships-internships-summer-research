@@ -1,13 +1,6 @@
 ---
-title: "Untitled"
+title: "Finding Paid Internships"
 description: |
-  A new article created using the Distill format.
-author:
-  - name: Nora Jones 
-    url: https://example.com/norajones
-    affiliation: Spacely Sprockets
-    affiliation_url: https://example.com/spacelysprokets
-date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
 
@@ -15,11 +8,262 @@ output: distill::distill_article
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web. 
+```{r xaringan-panelset, echo=FALSE}
+xaringanExtra::use_panelset()
+```
 
-Learn more about using Distill for R Markdown at <https://rstudio.github.io/distill>.
+<div>
+
+ <p id="left">
+ </p>
+ 
+<div>
+
+## Policy Interest Areas
+
+::: {.l-page}
+::: {.panelset}
+::: {.panel}
+### Economic {.panel-name}
+
+**Definition:** An [economic policy](https://www.cliffsnotes.com/study-guides/economics/introduction/economic-policy) is a course of action that is intended to influence or control the behavior of the economy. Economic policies are typically implemented and administered by the government. Examples of economic policies include decisions made about government spending and taxation, about the redistribution of income from rich to poor, and about the supply of money.
+
+**Goals of economic policy:**
+
+1. Economic growth: Economic growth means that the incomes of all consumers and firms (after accounting for inflation) are increasing over time.
+
+2. Full employment: The goal of full employment is that every member of the labor force who wants to work is able to find work.
+
+3. Price stability: The goal of price stability is to prevent increases in the general price level known as inflation, as well as decreases in the general price level known as deflation.
+
+**Examples:** https://www.economicshelp.org/blog/1011/recession/solving-current-economic-problems/
+
+:::
+
+:::{.panel}
+### Environmental {.panel-name}
+
+**Definition:** any measure by a government or corporation or other public or private organization regarding the effects of human activities on the environment, particularly those measures that are designed to prevent or reduce harmful effects of human activities on ecosystems. [(source)](https://www.britannica.com/topic/environmental-policy)
+
+**Issue Examples:** https://earth.org/the-biggest-environmental-problems-of-our-lifetime/
+
+:::
+
+:::{.panel}
+### Immigration {.panel-name}
+
+**Definition:** An immigration policy is any policy of a state that deals with the transit of persons across its borders into the country, but especially those that intend to work and stay in the country. Immigration policies can range from allowing no migration at all to allowing most types of migration, such as free immigration. Often, racial or religious bias is tied to immigration policy. Ethnic relations policy within a country can usually be broadly categorized as either 'assimilationist' or 'multiculturalist'. Nowadays, immigration policy is often closely related to other policies and issues: Tax, tariff and trade rules that determine what goods immigrants may bring with them, what services they may perform while temporarily in the country, and who is allowed to remain. [(source)](https://www.definitions.net/definition/Immigration%20policy)
+
+**Purposes:** There are five primary purposes of immigration policy (US English Foundation, 2016; Fix & Passel, 1994).
+
+1. Social: Unify citizens and legal residents with their families.
+
+2. Economic: Increase productivity and standard of living.
+
+3. Cultural: Encourage diversity, increasing pluralism and a variety of skills.
+
+4. Moral: Promote and protect human rights, largely through protecting those feeling persecution.
+
+5. Security: Control undocumented immigration and protect national security.
+
+:::
+
+:::{.panel}
+### Healthcare {.panel-name}
+
+**Definition:** Health policy is best understood as a set of overarching principles and goals that dictate how care is delivered and accessed. Health care policy can be codified at a national or state level, and then more finely honed in a hospital or clinical environment. The World Health Organization (WHO) defines it as the “decisions, plans, and actions that are undertaken to achieve specific health care goals within a society.” This broad category can be broken down into discrete policies, such as those related to mental health care and health care affordability. [(source)](https://onlinedegrees.und.edu/blog/what-is-health-policy/)
+
+**Types of Health Policy:**
+
+1. Global health. Global health takes a big-picture view, assessing the health needs of populations across the planet and striving to achieve equity of care.
+
+2. Public health. Public health describes the policies enacted on a national, state or community level to promote healthy lifestyles and prevent the spread of infectious diseases.
+
+3. Pharmaceuticals. Health policy may touch on the regulation, availability and affordability of pharmaceutical products.
+
+4. Financing. Health policy can determine how care is financed, including the extent to which the state reimburses health facilities for their services.
+
+5. Mental health. Mental health care is a key consideration in creating health policy, providing goals and objectives for promoting mental well-being and treating those with mental health conditions.
+
+6. Health equity. A stated goal of many health policies is to ensure that care is administered in a fair way, across different communities and demographics.
+
+7. Insurance. Heath policy may also determine the role that insurance plays in financing care, promote affordable or public insurance options, and regulate what insurers can and can’t do.
+
+8. Health care services. The codification of a health policy will directly impact the kinds of health care services available in an area.
+
+:::
+
+:::{.panel}
+### Education {.panel-name}
+
+**Definition:** Education policy refers to the legislation, regulations, and resources that shape and impact the curricula, environments, and teachers that students encounter. As such, education policy focuses on the interconnectedness of budgets; curriculum requirements; testing guidelines; infrastructures; teachers’ unions; and private, faith-based, and public education systems. Government institutions at the local, state, and federal levels also have a hand in implementing education policy. [(source)](https://soeonline.american.edu/blog/what-is-education-policy)
+
+:::
+
+:::{.panel}
+### Equity {.panel-name}
+
+**Definition:** Equity policies address the severe inequities between demographic groups. Equity policy seeks to address unequal access to opportunities that are critical to building equality for underserved and underrepresented groups in systemic structures. [(source)](https://www.nasi.org/research/economic-security/what-is-equity-policy/#:~:text=Equity%20policies%20address%20the%20severe%20inequities%20between%20demographic,in%20each%20of%20the%20other%20three%20policy%20pillars.)
+
+**Challenges to Equity:**
+
+1. Intersectional identities: Currently, certain sub-groups of the U.S. population do not have widespread access to key resources and opportunities. Many also face discrimination which actively harms their wellbeing. Equity-focused policies strive to ensure that all people in the United States—regardless of race, immigration status, criminal record, and other factors—have a fair shot at achieving.
+
+2. Systemic forces: Even as outward displays of discrimination have lessened over the past century, the systems and institutions designed over that period remain at the center of our social and political life. The many systems that reinforce inequality by reducing and limiting opportunities for economically insecure individuals must be reshaped. 
+
+:::
+:::
+:::
+
+## Policy Organizations By Subject
+
+::: {.l-page}
+::: {.panelset}
+::: {.panel}
+### Economic {.panel-name}
+
+**Economic Policy Organizations**
+
+American Enterprise Institute for Public Policy Research\
+AEI-Brookings Joint Center\
+The Atlas Economic Research Foundation\
+The Brookings Institution\
+Cato Institute\
+Competitive Enterprise Institute (CEI)\
+Economic Policy Institute (EPI)\
+The Heartland Institute\
+The Heritage Foundation\
+The Hoover Institution\
+Institute for International Economics\
+Institute for Policy Studies\
+Joint Center for Political and Economic Studies\
+Manhattan Institute for Policy Research\
+National Center for Policy Analysis\
+Reason Foundation\
+
+**Additional Lists:**
+
+1. https://www.eda.gov/resources/organizations/
+
+2. https://www.epi.org/archive/sr_national-orgsold/
+
+3. https://inomics.com/advice/top-economics-think-tanks-and-research-institutes-in-the-us-1025248
+
+:::
+
+:::{.panel}
+### Environmental {.panel-name}
+
+**Environmental Policy Organizations**
+
+**Lists**
+
+1. https://greendreamer.com/journal/environmental-organizations-nonprofits-for-a-sustainable-future
+
+2. https://www.momtastic.com/webecoist/2008/09/24/25-environmental-agencies-and-organizations/ 
+
+3. https://en.wikipedia.org/wiki/List_of_environmental_research_institutes
+
+:::
+
+:::{.panel}
+### Immigration {.panel-name}
+
+**Immigration Policy Organizations**
+
+Asian American Justice Center – Immigrant Rights\
+ACLU – Immigrants’ Rights\
+American-Arab Anti Discrimination Committee\
+American Friends Service Committee – Immigrants’ Rights\
+Anti-Defamation League – Immigration Reports and Resources\
+Catholic Legal Immigration Network\
+civilrights.org – Immigration\
+Farmworker Justice – Immigration and Labor\
+Hebrew Immigrant Aid Society\
+Immigrant Legal Resource Center\
+Immigration Advocates Network\
+Immigration Equality\
+Immigrant Solidarity Network\
+Irish Lobby for Immigration Reform\
+Justice for Immigrants\
+Lutheran Immigration and Refugee Service\
+Mexican American Legal Defense and Educational Fund\
+National Council of La Raza\
+National Immigrant Justice Center\
+National Immigration Forum\
+National Immigration Law Center\
+National Immigration Project\
+National Network for Immigrant and Refugee Rights\
+Unite Families\
+Vera’s Center on Immigration and Justice\
+Young Center for Immigrant Children’s Rights\
+
+**Additional Lists:**
+
+1. https://www.shusterman.com/immigration-organizations/
+
+2. https://stories.avvo.com/rights/immigration/10-nonprofit-organizations-help-immigration.html
+
+3. https://guides.library.columbia.edu/c.php?g=709736&p=5072094
+
+:::
+
+:::{.panel}
+### Healthcare {.panel-name}
+
+**National Health Policy and Research Organizations**
+
+AcademyHealth\
+American Enterprise Institute\
+Brookings Institute\
+CATO Institute\
+Alliance for Health Reform\
+Center for Studying Health System Change\
+Center on Budget and Policy Priorities\
+Commonwealth Fund\
+Economic and Research Institute\
+Heritage Foundation\
+Kaiser Family Foundation\
+Mathematica Health Policy Research\
+National Academy for State Health Policy\
+National Academy of Sciences: Health and Medicine Division\
+RAND Health\
+Research Triangle Institute\
+Robert Wood Johnson Foundation\
+State Health Access Data Assistance Center\
+Urban Institute\
+
+**Federal Agencies**
+
+Agency for Healthcare Research and Quality\
+U.S. Centers for Disease Control and Prevention\
+Department of Health and Human Services\
+Centers for Medicare & Medicaid Services\
+
+**Additional Lists**
+
+1. https://ushealthpolicygateway.com/whats-what-in-health-policy/policy-research-organizations/u-s-pros/
+
+2. https://nacns.org/advocacy-policy/advocacy-resources/health-policy-think-tanks/
+
+3. https://guides.emich.edu/c.php?g=187869&p=8082827
 
 
+:::
 
+:::{.panel}
+### Education {.panel-name}
+
+:::
+
+:::{.panel}
+### Equity {.panel-name}
+
+:::
+:::
+:::
+
+
+## Previously Offered Internships
 
 

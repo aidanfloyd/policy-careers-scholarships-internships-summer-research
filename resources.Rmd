@@ -9,5 +9,10 @@ output: distill::distill_article
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+**US News and Ranking Report Graduate Public Affairs 2022** 
+
 https://www.usnews.com/best-graduate-schools/top-public-affairs-schools/public-affairs-rankings
+
+
+
 

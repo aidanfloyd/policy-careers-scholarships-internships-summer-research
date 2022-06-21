@@ -315,7 +315,7 @@ The University of Washington (UW) is located in Seattle, WA home to the Evans Sc
 
 **Application Fee:** $85
 
-**Application Fee Waiver:** https://gradadm.usc.edu/lightboxes/us-students-fee-waivers/https://grad.uw.edu/admission/application-fee-waivers/
+**Application Fee Waiver:** https://grad.uw.edu/admission/application-fee-waivers/
 
 **Annual Tuition & Fees:** $44,430.00 [more information](https://evans.uw.edu/admissions/tuition/#1589259917229-f44b7c43-0527)
 
@@ -1051,4 +1051,40 @@ The University of North Carolina (UNC) is located in Chapel Hill, NC home to the
 :::
 :::
 
+## Additional Top 50 Graduate Degree Programs
 
+Insert Excel Spreadsheet Here:
+
+23. Columbia University
+24. Duke University
+25. Texas A&M -College Station (Bush)
+26. University at Albany-SUNY Rockefeller
+27. University of Kansas
+28. University of Nebraska - Omaha
+29. Rutgers, The State University of New Jersey--Newark
+30. University of Colorado Denver
+31. University of Deleware
+32. University of Illinois - Chicago
+33. University of Kentucky (Martin)
+34. University of Winsconsin-Madison (La Follete)
+35. Johns Hopkins University
+36. University of Maryland - College Park
+37. University of Virginia
+38. Virginia Commonwealth University
+39. Cornell University
+40. George Mason University
+41. University of Arizona
+42. University of Central Florida
+43. University of Connecticut
+44. University of Pittsburgh
+45. Virginia Tech
+46. CUNY--Baruch College
+47. Florida State University (Askew)
+48. University of Missouri (Truman)
+49. Brigham Young University - Provo (Romney)
+50. Georgia Institute of Technology
+51. Indiana University Purdue University (ONeil)
+52. North Carolina State University
+53. Northern Illinois University
+54. Portland State University
+55. UNC - Charlotte

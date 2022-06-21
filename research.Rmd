@@ -1,13 +1,6 @@
 ---
-title: "Untitled"
+title: "Paid Summer Research Programs"
 description: |
-  A new article created using the Distill format.
-author:
-  - name: Nora Jones 
-    url: https://example.com/norajones
-    affiliation: Spacely Sprockets
-    affiliation_url: https://example.com/spacelysprokets
-date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
 
@@ -15,9 +8,9 @@ output: distill::distill_article
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web. 
+## About Summer Research Programs
 
-Learn more about using Distill for R Markdown at <https://rstudio.github.io/distill>.
+### What is a Summer Research Program?
 
 
 

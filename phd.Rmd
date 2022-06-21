@@ -7,5 +7,754 @@ output: distill::distill_article
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+```{r xaringan-panelset, echo=FALSE}
+xaringanExtra::use_panelset()
+```
+
+<div>
+
+ <p id="left">
+ </p>
+ 
+<div>
+
+## #1 - Syracuse University (Syracuse, NY)
+
+::: {.l-page}
+::: {.panelset}
+::: {.panel}
+### About {.panel-name}
+
+**UNSWR Rank 2022:** 1st (tie)
+
+Syracuse University is located in Syracuse, NY home to the Maxwell School of Citizenship Public Affairs. The school offers the following PhD degrees: PhD in Political Science, PhD in Public Administration. 
+
+**School Website (Political Science):** https://www.maxwell.syr.edu/academics/political-science/graduate-studies/phd
+
+**School Website (Public Administration):** https://www.maxwell.syr.edu/academics/public-administration-international-affairs-department/public-administration-all-programs/phd-in-public-administration
+
+:::
+
+:::{.panel}
+#### Application Information {.panel-name}
+
+**Application Fee:** $75
+
+**Application Deadline:** January 15th
+
+**Application Fee Waiver:** https://www.maxwell.syr.edu/admission/graduate/how-to-apply/fee-waiver-request/
+
+**Prerequisites:** Masters Degree, Research Agenda, Writing Sample (30 pages), Work Experience. 
+
+:::
+
+::: {.panel}
+#### Funding Opportunities {.panel-name}
+
+**Political Science:** Merit-based financial aid awards are available to support study in the Ph.D. program in the form of fellowships and graduate assistantships. Financial support is renewed each year for five years of study, subject to maintaining satisfactory performance in the Ph.D. program. Admitted students typically receive stipends for their first three summers in the program as well.
+
+**Public Administration:** Most student currently enrolled in the public administration doctoral program received full or partial funding in the form of Fellowships, Graduate Assistantships, Scholarships, Research Grants and other funding from the department, graduate school, Maxwell Dean's Office and an array of topical and regional research centers and institutes.
+
+**Fellowships:** University fellowship awardees receive a stipend and a full-tuition scholarship for 24 credits in their first and fourth years of study and receive graduate assistantship in their second, third and fifth years.
+
+**Graduate Assistantships:** Ph.D. students have the option to obtain teaching and research experience through graduate assistantships, which are renewed each academic year. Assistantships include a stipend, a full graduate tuition scholarship and a subsidy toward health insurance coverage for the year.
+
+**PAIA Graduate Assistantships:** All Ph.D. students receive department funding at time of admission and are required to serve as a graduate assistant (GA) for both research and teaching apprenticeships. These apprenticeships are an integral element of the department's emphasis on both research design and methods and the development of the skills needed for an academic career.
+
+**PAIA Teaching Assistants:** To ensure that all Ph.D. students obtain experience in the classroom, students receiving four years of funding from the PAIA department will be required to support a class for three semesters as a teaching assistant (TA) at some point before the end of the spring semester in their fourth year in residence.
+
+**Research Grants:** The PAIA department offers small research grants (typically $1,500-$2,000) to cover summer expenses. Applications are competitive. In addition, students are often funded by external research grants, both during the academic year and the summer. Interested students should check with their advisors.
+
+:::
+:::
+:::
+
+## #2 - Harvard University (Cambridge, MA)
+
+::: {.l-page}
+::: {.panelset}
+::: {.panel}
+### About {.panel-name}
+
+**UNSWR Rank 2022:** 3rd (tie)
+
+Harvard University is located in Cambridge, MA home to the Harvard Kennedy School. The school offers the following PhD degrees: PhD in Public Policy, PhD in Political Economy and Government, PhD in Health Policy, PhD in Social Policy
+
+**Doctoral Programs Website:** https://www.hks.harvard.edu/educational-programs/doctoral-programs
+
+:::
+
+:::{.panel}
+#### Application Information {.panel-name}
+
+**Application Fee:** $100 
+
+**Application Deadline:** December 1st
+
+**Application Fee Waiver:** https://www.hks.harvard.edu/admissions-aid/masters-program-admissions/how-apply/application-fee
+
+**Prerequisites:** A master's degree is not required to apply. Official GRE scores are required with your application and test scores must be issued within the past five years. You will apply to one of the specific tracks listed on the website; each track has specific admissions prerequisites available [here](https://www.hks.harvard.edu/admissions-aid/doctoral-program-admissions/admissions-requirements). You will also need: statement of purpose, three letters of recommendation, and one research paper you have written by yourself that has a policy focus (co-authored pieces not accepted). 
+
+:::
+
+::: {.panel}
+#### Funding Opportunities {.panel-name}
+
+[Fellowships](https://gsas.harvard.edu/financial-support/fellowships) are merit based. You will automatically be considered for available fellowships when your application is reviewed by our admissions committee. As a fellowship recipient, your tuition will be covered for four years and you’ll receive a stipend for your first and second years. You are guaranteed funding during your final year so you can focus on finishing your dissertation.
+
+Harvard Kennedy encourages applicants to pursue external fellowships and explore research funding opportunities beyond Harvard. Many PPOL students have received funding from the National Science Foundation, Jacob K. Javits Fellowships Program, Fulbright Program, and the Ford Foundation.
+
+:::
+:::
+:::
+
+## #3 - University of Georgia (Athens, GA)
+
+::: {.l-page}
+::: {.panelset}
+::: {.panel}
+### About {.panel-name}
+
+**UNSWR Rank 2022:** 3rd (tie)
+
+The University of Georgia is located in Athens, GA home to the School of Public and International Affairs. The school offers the following doctoral degrees: PhD in Public Administration and Policy, and PhD in Political Science and International Affairs.
+
+**Public Administration Program Website :** https://spia.uga.edu/degree/doctor-of-philosophy-phd-in-public-administration/
+
+**Political Science Program Website: ** https://spia.uga.edu/degree/doctor-of-philosophy-phd-in-political-science-international-affairs/prospective-students/
+
+:::
+
+:::{.panel}
+#### Application Information {.panel-name}
+
+**Application Fee:** $75 
+
+**Application Deadline:** February 1st
+
+**Application Fee Waiver:** https://grad.uga.edu/index.php/prospective-students/domestic-application-information/requirements/application-fee/
+
+**Prerequisites:** To be considered for admission to the PhD program, students must hold a baccalaureate and masters degrees from accredited college or university programs and must demonstrate potential for excellence in the study of public administration and public policy. Students will also need the following: Official GRE test score report, statement of purpose, and three recommendations.  
+
+:::
+
+::: {.panel}
+#### Funding Opportunities {.panel-name}
+
+**Public Administration:** The Department of Public Administration and Policy places all PhD students on teaching or research assistantships that provide tuition waivers and stipends ranging from approximately $15,000 to $18,000 for a nine-month academic year.  Assistantships also require at least a 13 hour per-week work commitment and are renewable for up to four years depending upon satisfactory academic success. To achieve renewal for years two and three, you must maintain a 3.3 GPA and avoid grades of Incomplete except in cases of documented medical hardship. In order to continue funding in year four, you must have passed all comprehensive exams and successfully defended your dissertation prospectus before the completion of the third year. Doctoral applicants are admitted only if the department can offer them financial assistance in the form of a research or teaching assistantship as noted above.  All doctoral applicants must, therefore, apply for financial aid and must submit all application materials before February 1 to ensure full consideration. 
+
+**Political Science:** The Graduate Program in Political Science and International Affairs is able to offer a number of graduate assistantships to qualified applicants. Graduate assistantships include a full tuition waiver (students are still expected to pay fees), stipend, and a work commitment as either a teaching or research assistant. You must apply for all assistantships through the Departmental Graduate Office.  Do not contact the Graduate School about financial support. Most graduate assistantships come from departmental funding sources (SPIA Assistantships). Students who receive support from the Graduate School must be nominated by their department and go through a competitive process.
+
+:::
+:::
+:::
+
+## #4 - University of Southern California (Los Angeles, CA)
+
+::: {.l-page}
+::: {.panelset}
+::: {.panel}
+### About {.panel-name}
+
+**UNSWR Rank 2022:** 3rd (tie)
+
+The University of Southern California (USC) is located in Los Angeles, CA home to the Price School of Public Policy. The school offers the following degrees: PhD in Public Policy and Management. 
+
+**Public Policy Website:** https://priceschool.usc.edu/ppm/
+
+:::
+
+:::{.panel}
+#### Application Information {.panel-name}
+
+**Application Fee:** $90 
+
+**Application Deadline:** December 1st
+
+**Application Fee Waiver:** https://gradadm.usc.edu/lightboxes/us-students-fee-waivers/
+
+**Admissions Website:** https://priceschool.usc.edu/programs/admissions/
+
+**Prerequisites:** Official copy of test scores from the Graduate Record Exam (GRE) (Scores older than five years are not accepted. A current writing sample that is approximately 10 pages in length. This writing sample can be published or unpublished work. Three letters of recommendation, at least two of which should be from academic sources. A 1,000-word statement of purpose and interest. While a master’s degree is not required for the program, USC Price strongly encourages a master’s degree in public administration or public policy or a related field for admission into the Ph.D. program in Public Policy and Management. Students entering without a master’s degree or other relevant graduate degree work will be required to complete additional coursework.
+
+:::
+
+::: {.panel}
+#### Funding Opportunities {.panel-name}
+
+**Diversity, Inclusion and Access Fellowship**
+Fellowship awarded to students who contribute to diversity of USC Ph.D. programs. Selection is based on academic merit and fit with Price School faculty research. Award consists of two years of fellowship in first and fourth years and two years in second and third year of research assistantship, 36 units per year of tuition remission, $34,000 annual stipend, year-round health and dental insurance, and most fees, a one-time summer stipend of $3,000 for dissertation writing if you have your dissertation proposal approved by the end of your third year, and travel stipends to scholarly conferences to present academic work. Automatically renewed each year as long as student maintains a 3.3 GPA, achieves satisfactory performance on research and teaching assistant assignments, and satisfactory progress towards passing qualifying examinations during the third year.
+
+**Price Graduate School Fellowship**
+Based on academic merit, fit with Price School faculty research. Award consists of two years of fellowship in first and fourth years and two years in second and third year of research assistantship, 36 units per year of tuition remission, $30,500 annual stipend, year-round health and dental insurance, and most fees, a one-time summer stipend of $3,000 for dissertation writing if you have your dissertation proposal approved by the end of your third year, and travel stipends to scholarly conferences to present academic work. Automatically renewed each year as long as student maintains a 3.3 GPA, achieves satisfactory performance on research and teaching assistant assignments, and satisfactory progress towards passing qualifying examinations during the third year.
+
+**Provost Fellowship**
+Based on academic merit and fit with Price School faculty research. Award consists of two years of fellowship in first and fourth years and two years in second and third year of research assistantship, 36 units per year of tuition remission, $34,000 annual stipend, year-round health and dental insurance, and most fees, a one-time summer stipend of $3,000 for dissertation writing if you have your dissertation proposal approved by the end of your third year, and travel stipends to scholarly conferences to present academic work. Automatically renewed each year as long as student maintains a 3.3 GPA, achieves satisfactory performance on research and teaching assistant assignments, and satisfactory progress towards passing qualifying examinations during the third year.
+
+**Research Assistantships and Dissertation Fellowships**
+Employment opportunity to do research with faculty. Sometimes funding comes from a research center, an individual faculty member, or an outside agency. These awards come with tuition remission, health benefits, and a stipend as compensation for the work they complete. Sometimes these awards are for summer funding, sometimes they replace all or a portion of the four year-funding package the Price School offers, and sometimes they are used for students who need assistance after their four years of funding runs out. Students should consult with their guidance and dissertation committee members about opportunities.
+
+:::
+:::
+:::
+
+## #5 - University of Washington (Seattle, WA)
+
+::: {.l-page}
+::: {.panelset}
+::: {.panel}
+### About {.panel-name}
+
+**UNSWR Rank 2022:** 3rd (tie)
+
+The University of Washington (UW) is located in Seattle, WA home to the Evans School of Public Policy and Governance. The school offers the following doctoral degrees: PhD in Public Policy and Management.
+
+**Program Website:** https://evans.uw.edu/academic-programs/phd/
+
+:::
+
+:::{.panel}
+#### Application Information {.panel-name}
+
+**Application Fee:** $85 
+
+**Application Deadline:** December 15th
+
+**Application Fee Waiver:** https://grad.uw.edu/admission/application-fee-waivers/
+
+**Admissions Website:** https://priceschool.usc.edu/programs/admissions/
+
+**Prerequisites:** Writing sample of a sole-authored piece of work showing your analytic and writing capacity. The sample should be cut down to 30 pages or fewer if taken from a longer document. Statement of purpose, describing in 750 words. Three letters of recommendation. GRE Scores or Proof of Quantitative Coursework.  **Academic Requirements** If you only have a bachelor’s degree, your application will be considered; however, we believe that students with master’s degrees in public policy, public administration, economics, sociology, political science, or related disciplines are, in general, better prepared for our Ph.D. program.
+Admitted students will be required to complete a college-level course in calculus before enrolling in the Ph.D. program. The application asks about your prior calculus coursework. If you haven’t previously taken calculus, you can briefly detail (in two sentences or fewer) your plan to do so if admitted into the program. **Research** A research proposal is not required for the application, but we ask applicants review Potential Ph.D. Advisors and identify 2-3 whose research aligns with your interests. You may include a 1 or 2 sentence explanation for each faculty member about why you have selected them. 
+
+:::
+
+::: {.panel}
+#### Funding Opportunities {.panel-name}
+
+We offer all students admitted into our doctoral program four to five years of full funding through a mix of research and teaching assistantships at the Evans School. Full funding consists of a tuition waiver, a monthly stipend of approximately $2300-2600, and health insurance coverage. Research and teaching assistantships have a 20 hour a week work obligation. Students are assigned to a research assistantship with an Evans School faculty member in their first year in the program, and then complete a mix of research and teaching assistantships in subsequent quarters. Evans School doctoral students serve as teaching assistants for six quarters on average while in the program.
+
+:::
+:::
+:::
+
+## #6 - American University (Washington, DC)
+
+::: {.l-page}
+::: {.panelset}
+::: {.panel}
+### About {.panel-name}
+
+**UNSWR Rank 2022:** 10th (tie)
+
+American University (AU) is located in Washington DC, home to the AU School of Public Affairs. The school offers the following degrees: PhD in Political Science and PhD in Public Administration and Policy. 
+
+**Program Website:** https://www.american.edu/spa/phd/phd-puad.cfm
+
+:::
+
+:::{.panel}
+#### Application Information {.panel-name}
+
+**Application Fee:** $55
+
+**Application Deadline:** January 10th
+
+**Application Fee Waiver:** https://www.american.edu/spa/admissions/apply-to-spa.cfm#application-requirements
+
+**Admissions Website:** https://www.american.edu/spa/admissions/app-req.cfm
+
+**Prerequisites:** Three Letters of Recommendation, Official Test Score Report(s)--GRE and TOEFL, Personal Statement, Writing Sample. 
+
+:::
+
+::: {.panel}
+#### Funding Opportunities {.panel-name}
+
+Upon acceptance into the program, students selected for AU funding are granted a fellowship with full funding for four years of study if they are entering with a master's degree. Students entering with a bachelor's degree alone are granted a fellowship with full funding for five years of study. Fellowship is contingent on maintaining satisfactory progress each year. Unless applicants expect to be funded through a reliable external source, they must request consideration for funding on their application.
+
+The fellowship with full funding includes tuition benefits as well as an annual stipend. Please, contact the SPA Graduate Admissions Office with questions about the annual stipend during a particular year of admission. As a requirement for the fellowship, students work 20 hours a week with a faculty member.
+
+Students must advance to candidacy by the end of their third year of study (fourth year for those entering with only a bachelor's degree) to continue receiving funding. If they have not achieved candidacy by then, they are required to find external funding or self-fund the remaining part of their program. 
+
+:::
+:::
+:::
+
+## #7 - University of Michigan (Ann Arbor, MI)
+
+::: {.l-page}
+::: {.panelset}
+::: {.panel}
+### About {.panel-name}
+
+**UNSWR Rank 2022:** 8th (tie)
+
+The University of Michigan (UM) is located in Ann Arbor, MI, home to the Ford School of Policy. The school offers the following joint PhDs in public policy: Public Policy and Economics, Public Policy and Political Science, Public Policy and Sociology. 
+
+**Program Website:** https://fordschool.umich.edu/phd
+
+:::
+
+:::{.panel}
+#### Application Information {.panel-name}
+
+**Application Fee:** $75 
+
+**Application Deadline:** December 15th
+
+**Application Fee Waiver:** https://fordschool.umich.edu/mpp-mpa/admissions/fee-waiver
+
+**Admissions Website:** https://fordschool.umich.edu/phd/admissions
+
+**Prerequisites:** Three Letters of Recommendation, Official Test Score Report(s)--GRE and TOEFL, Academic Statement of Purpose, Personal Statement, Writing Sample (≤ 20 pages): A writing sample is required for those applying to the Joint PhD with Political Science or Sociology. It is not required if applying to Economics. 
+
+:::
+
+::: {.panel}
+#### Funding Opportunities {.panel-name}
+
+All PhD students receive five years of funding, contingent on satisfactory performance. The funding covers tuition, health insurance, and a stipend. Support may be in the form of fellowships, research assistantships, and teaching assistantships. More information on funding found [here](https://fordschool.umich.edu/phd/funding). 
+
+:::
+:::
+:::
+
+## #8 - University of Texas - Austin (Austin, TX)
+
+::: {.l-page}
+::: {.panelset}
+::: {.panel}
+### About {.panel-name}
+
+**UNSWR Rank 2022:** 10th (tie)
+
+University of Texas - Austin (UT) is located in Austin, TX, home to the Lyndon B. Johnson (LBJ) School of Public Affairs. The school offers the following degrees: PhD in Public Policy. 
+
+**Program Website:** https://lbj.utexas.edu/phd-public-policy
+
+:::
+
+:::{.panel}
+#### Application Information {.panel-name}
+
+**Application Fee:** $125 
+
+**Application Deadline:** December 1st
+
+**Application Fee Waiver:** https://gradschool.utexas.edu/how-to-apply
+
+**Admissions Website:** https://lbj.utexas.edu/phd-public-policy-how-apply
+
+**Prerequisites:** Three Letters of Recommendation, Official Test Score Report(s)--GRE and TOEFL, Academic Statement of Purpose, Writing Sample. 
+
+:::
+
+::: {.panel}
+#### Funding Opportunities {.panel-name}
+
+The LBJ School typically guarantees four years of funding for doctoral students admitted to the program. This normally comes in the form of a combination of subsidized tuition, fellowship support, and employment as a Teaching Assistant or Graduate Research Assistant.
+
+In addition to the school's own fellowship packages, students may be nominated to compete for prestigious University Awards (Harrington Fellowships, Named Continuing Fellowships, Preemptive Recruitment Fellowships and some others), as well as for external fellowship and research funding from the Social Science Research Council, the National Science Foundation, the Ford Foundation and other organizations.
+
+:::
+:::
+:::
+
+## #9 - Arizona State University (Tempe, AZ)
+
+::: {.l-page}
+::: {.panelset}
+::: {.panel}
+### About {.panel-name}
+
+**UNSWR Rank 2022:** 12th (tie)
+
+Arizona State University is located in Tempe, AZ, home to the School of Public Affairs (SPA). The school offers the following degrees: Doctor of Philosophy (PhD) in Public Administration and Policy
+
+**Program Website:** https://spa.asu.edu/phd
+
+:::
+
+:::{.panel}
+#### Application Information {.panel-name}
+
+**Application Fee:** $70 
+
+**Application Deadline:** January 11th
+
+**Application Fee Waiver:** No Fee Waivers Available
+
+**Admissions Website:** https://spa.asu.edu/content/how-apply
+
+**Prerequisites:** A written statement of educational and career goals that includes a discussion of research interests. Three Letters of Recommendation, Official Test Score Report(s)--GRE and TOEFL, Sample of research reports or research paper. 
+
+:::
+
+::: {.panel}
+#### Funding Opportunities {.panel-name}
+
+Qualified PhD Students are offered fully funded research assistantships that may be affiliated with one or more of the ten research centers and initiatives that are housed in the School of Public Affairs.  As a research assistant you will work closely with our award-winning faculty on cutting-edge research projects and begin building your resume as a scholar. 
+
+The goal is to empower independent scholars who are grounded in the classic and current literatures of public administration and public policy -- scholars who are able to think critically about innovations in the field, are skilled in research methods, and ready to make a positive and important contribution to the field. 
+
+The comprehensive program offers strengths in public management, city management and urban innovation, environmental policy, science and technology policy, participatory governance, and information technology and e-government.
+
+:::
+:::
+:::
+
+## #10 - Carnegie Mellon University (Pittsburg, PA)
+
+::: {.l-page}
+::: {.panelset}
+::: {.panel}
+### About {.panel-name}
+
+**UNSWR Rank 2022:** 12th (tie)
+
+Carnegie Mellon University is located in Pittsburgh, PA, home to the Heinz College of Information Systems and Public Policy. The school offers the following degrees: PhD in Public Policy and Management. 
+
+**Program Website:** https://www.heinz.cmu.edu/programs/phd-programs/public-policy-management
+
+:::
+
+:::{.panel}
+#### Application Information {.panel-name}
+
+**Application Fee:** No Fee 
+
+**Application Deadline:** January 10th
+
+**Application Fee Waiver:** No Fee (FREE)
+
+**Admissions Website:** https://www.heinz.cmu.edu/admissions/phd-programs/
+
+**Prerequisites:** Two Letters of Recommendation, Official Test Score Report(s)--GRE and TOEFL, Sample of research reports or research paper. Personal Essay (1000 words). Proposed Research Essay. Video Interview (optional but strongly recommended). 
+
+:::
+
+::: {.panel}
+#### Funding Opportunities {.panel-name}
+
+**Funding Website:** https://www.heinz.cmu.edu/programs/phd-programs/financial-aid-and-scholarships-phd
+
+The financial aid program is designed to provide you with the financial support necessary to enable you to successfully complete the Ph.D. program. If you are a Ph.D. candidate in good standing, you will receive a full-tuition scholarship for your entire tenure in the program. 
+
+**First Year:** You will receive a $27,000 stipend (no work required) for the academic year (nine months) during your first year in the program. In addition to the full-tuition scholarship and stipend, Ph.D. students will be eligible for the university's support of 100 percent of the individual premium cost for coverage through the Student Healthcare Insurance Program.
+
+**Second through Sixth Years:** In your second through sixth years of study, provided you remain in good academic standing, Heinz College will annually renew your full-tuition scholarship support and provide you with the opportunity to earn a minimum of $27,000 each year through teaching and/or research assistantships. There are additional opportunities to augment your academic year earnings by working as a teaching assistant during the summer term. In addition to the full-tuition scholarship and stipend, Ph.D. students will be eligible for the university's support of 100% of the individual premium cost for coverage through the Student Healthcare Insurance Program.
+
+:::
+:::
+:::
+
+## #11 - New York University (NYC, NY)
+
+::: {.l-page}
+::: {.panelset}
+::: {.panel}
+### About {.panel-name}
+
+**UNSWR Rank 2022:** 12th (tie)
+
+New York University is located In NYC, NY, home to the Wagner School of Policy. The School offers the following degrees: PhD in Public Administration. 
+
+**Program Website:** https://wagner.nyu.edu/education/degrees/doctorate-public-administration
+
+:::
+
+:::{.panel}
+#### Application Information {.panel-name}
+
+**Application Fee:** $85 
+
+**Application Deadline:** November 29th
+
+**Application Fee Waiver:** https://wagner.nyu.edu/faq/can-i-have-my-application-fee-waived
+
+**Admissions Website:** https://wagner.nyu.edu/admissions/degree-checklist/phd
+
+**Prerequisites:** Personal Statement (800-1200 words). Writing Sample: Applicants are required to submit a writing sample (published or unpublished) of any length that will allow the Doctoral Board to understand your potential as a researcher. Single-authored papers are preferred, but a co-authored paper is acceptable. Three Letters of Recommendation. GRE or GMAT scores are required for admission; only tests taken within the past five (5) years will be considered. 
+
+:::
+
+::: {.panel}
+#### Funding Opportunities {.panel-name}
+
+**Funding Website:** https://wagner.nyu.edu/admissions/financial-aid/phd
+
+All PhD students without alternate funding sources are eligible to receive a four-year research apprenticeship, which carries a stipend, health insurance, a $1000 start up grant, and 100% tuition remission.  Research apprentices work up to 20 hours a week with faculty members on research projects during the academic year.  No additional application materials are required for consideration.
+
+:::
+:::
+:::
+
+## #12 - Princeton University (Princeton, NJ)
+
+::: {.l-page}
+::: {.panelset}
+::: {.panel}
+### About {.panel-name}
+
+**UNSWR Rank 2022:** 12th (tie)
+
+Princeton University is located In Princeton, NJ, home to the Princeton School of Public and International Affairs. The School offers the following degrees: PhD in Public Affairs.
+
+**Program Website:** https://spia.princeton.edu/graduate-programs/phd-public-affairs
+
+:::
+
+:::{.panel}
+#### Application Information {.panel-name}
+
+**Application Fee:** $75 
+
+**Application Deadline:** December 1st
+
+**Application Fee Waiver:** https://gradschool.princeton.edu/admission/applying-princeton/deadlines-and-fees/application-fee-waivers
+
+**Admissions Website:** https://spia.princeton.edu/graduate-admissions/phd-public-affairs
+
+**Prerequisites:** Statement of Academic Purpose/Personal Statement. Writing Sample: Include a 20 to 25-page research paper or previous academic work. Three Letters of Recommendation. 
+
+:::
+
+::: {.panel}
+#### Funding Opportunities {.panel-name}
+
+**Funding Website:** https://spia.princeton.edu/graduate-admissions/phd-public-affairs/financial-aid
+
+Unless externally funded, all doctoral program students receive 100% of tuition and required fees support. The School offers a need-based stipend for living expenses for up to five years.
+
+Tuition and stipend support are covered by the School for the program’s duration in the form of grants in combination with any external fellowships and institutional sponsorships an applicant may already have.
+
+The tuition and health plan fee for the 2021-22 academic year is $58,790.
+
+:::
+:::
+:::
+
+## #13 - University of Minnesota (Minneapolis, MN)
+
+::: {.l-page}
+::: {.panelset}
+::: {.panel}
+### About {.panel-name}
+
+**UNSWR Rank 2022:** 12th (tie)
+
+University of Minnesota is located in Minneapolis, MN home to the Hubert H. Humphrey School of Public Affairs. The School offers the following degrees: Doctor of Philosophy (PhD) in Public Affairs
+
+**Program Website:** https://www.hhh.umn.edu/doctor-philosophy-phd-public-affairs
+
+:::
+
+:::{.panel}
+#### Application Information {.panel-name}
+
+**Application Fee:** $75 
+
+**Application Deadline:** December 1st
+
+**Application Fee Waiver:** No Fee Waivers Available
+
+**Admissions Website:** https://www.hhh.umn.edu/doctor-philosophy-phd-public-affairs/phd-public-affairs-application-requirements
+
+**Prerequisites:** Personal Statement. Diversity Statement. Writing Sample. Three Letters of Recommendation. GRE Scores.
+
+:::
+
+::: {.panel}
+#### Funding Opportunities {.panel-name}
+
+**Funding Website:** N/A
+
+All applicants to the PhD in Public Affairs will automatically be considered for financial support. Students admitted to the doctoral program are provided a minimum of four years of full financial assistance in the form of tuition benefits, stipends, and research or teaching assistantships or will be supported through innovative partnerships with research collaborators. Because the financial support pool is limited, admission to the PhD program is selective and highly competitive. Continuation of funding will be dependent on annual progress towards the doctoral degree.
+
+:::
+:::
+:::
+
+## #14 - Georgia State University (Atlanta, GA)
+
+::: {.l-page}
+::: {.panelset}
+::: {.panel}
+### About {.panel-name}
+
+**UNSWR Rank 2022:** 20th (tie)
+
+Georgia State University is located in Atlanta, GA home to the Andrew Young School of Policy Studies. The School offers the following degrees: PhD in Public Policy.
+
+**Program Website:** https://aysps.gsu.edu/program/public-policy-phd/
+
+:::
+
+:::{.panel}
+#### Application Information {.panel-name}
+
+**Application Fee:** $50
+
+**Application Deadline:** January 15th
+
+**Application Fee Waiver:** https://dei.gsu.edu/program/application-fee-waiver-policy/
+
+**Admissions Website:** https://aysps.gsu.edu/program/public-policy-phd/#admissions-requirements
+
+**Prerequisites:** Goal Statement. GRE Scores. Three letters of recommendation.  
+
+:::
+
+::: {.panel}
+#### Funding Opportunities {.panel-name}
+
+**Funding Website:** N/A
+
+Students admitted to the program are typically offered a graduate assistantship with a minimum $18,000 yearly stipend and full tuition waiver.
+
+:::
+:::
+:::
+
+## #15 - University of North Carolina (Chapel Hill, NC)
+
+::: {.l-page}
+::: {.panelset}
+::: {.panel}
+### About {.panel-name}
+
+**UNSWR Rank 2022:** 20th (tie)
+
+The University of North Carolina (UNC) is located in Chapel Hill, NC home to the School of Government. The School offers the following degrees: PhD in Public Policy.
+
+
+**Program Website:** https://publicpolicy.unc.edu/academics/graduate-program/ph-d-program/
+
+:::
+
+:::{.panel}
+#### Application Information {.panel-name}
+
+**Application Fee:** $95
+
+**Application Deadline:** December 14th
+
+**Application Fee Waiver:** https://gradschool.unc.edu/admissions/feewaiver.html
+
+**Admissions Website:** https://gradschool.unc.edu/admissions/instructions.html
+
+**Prerequisites:** Three letters of recommendation. GRE Scores. Statement of Purpose.
+
+:::
+
+::: {.panel}
+#### Funding Opportunities {.panel-name}
+
+**Funding Website:** N/A
+
+UNC Public Policy helps secure funding for all graduate students making good academic progress in their studies. Sources of funding include a combination of fellowships, 
+traineeships, graduate teaching assistantships, and graduate research assistantships. Each PhD student receives full tuition reimbursement, including fees, health insurance, and a stipend of at least $18,000 per year, plus a conference travel fund of $1,000. Highly qualified doctoral students are competitive for other fellowships 
+from The Graduate School. Additional fellowships are available to members of underrepresented groups. 
+
+:::
+:::
+:::
+
+## #16 - Columbia University (NYC, NY)
+
+::: {.l-page}
+::: {.panelset}
+::: {.panel}
+### About {.panel-name}
+
+**UNSWR Rank 2022:** 23rd (tie)
+
+Columbia University is located in NYC, NY home to the SIPA School of International Affairs. The School offers the following degrees: PhD in Sustainable Development.
+
+
+**Program Website:** https://www.sipa.columbia.edu/academics/programs/phd-sustainable-development
+
+:::
+
+:::{.panel}
+#### Application Information {.panel-name}
+
+**Application Fee:** $120
+
+**Application Deadline:** December 15th
+
+**Application Fee Waiver:** None Available.
+
+**Admissions Website:** https://www.gsas.columbia.edu/content/admissions
+
+**Prerequisites:** Three letters of recommendation. GRE Scores. Strong background in social science, including four courses in college-level social science with a minimum of two economics courses. Quantitative skills, including at least two courses in college-level calculus through multivariate calculus (Calculus III in the US) and at least one college-level course in linear algebra. Three or more college-level courses in natural science or engineering.Statement of Purpose.
+
+:::
+
+::: {.panel}
+#### Funding Opportunities {.panel-name}
+
+**Funding Website:** N/A
+
+Full-tuition fellowships with stipends are available for all admitted students who are not already sponsored by their governments, employers, or a foundation.
+
+:::
+:::
+:::
+
+## #17 - Duke University (Durham, NC)
+
+::: {.l-page}
+::: {.panelset}
+::: {.panel}
+### About {.panel-name}
+
+**UNSWR Rank 2022:** 23rd (tie)
+
+Duke University is located in Durham, NC home to the Sanford School of Public Policy. The School offers the following degrees: PhD in Public Policy.
+
+
+**Program Website:** https://sanford.duke.edu/academics/doctoral-program/
+
+:::
+
+:::{.panel}
+#### Application Information {.panel-name}
+
+**Application Fee:** $80
+
+**Application Deadline:** December 1st
+
+**Application Fee Waiver:** None Available.
+
+**Admissions Website:** https://sanford.duke.edu/admissions/phd-admissions/
+
+**Prerequisites:** Designate a disciplinary concentration. Submit a resume. Submit a writing sample of no more than 20 pages. Statement of Purpose. Three letters of Recommendation. GRE Scores. 
+
+:::
+
+::: {.panel}
+#### Funding Opportunities {.panel-name}
+
+**Funding Website:** https://sanford.duke.edu/admissions/phd-admissions/phd-financial-aid/
+
+Duke University and the Sanford School of Public Policy are committed to fully supporting Public Policy PhD students for five years through a combination of scholarships, fellowships, research or teaching assistantships and stipends, provided that students maintain satisfactory progress in the program.
+
+**Year 1**
+During the first year of the program, most students receive a scholarship for tuition and fees and are paid a stipend via departmental or external fellowships, with no additional work obligations.
+
+**Years 2 - 3**
+In years two and three, students are expected to work as Research or Teaching Assistants to earn part of the stipend.
+
+**Years 4 - 5**
+In years four and five, students will be funded through a combination of research assistantships and external dissertation fellowships. To be eligible for full financial support students must be in good academic standing and meet all departmental qualifying standards.
+
+**FELLOWSHIPS**
+We strongly encourage students to seek fellowships from external sources, which carry considerable prestige and offer generous multiyear support packages. Of special interest to applicants who are U.S. citizens or permanent residents are the National Science Foundation Graduate Research Fellowships and the Jacob Javits Graduate Fellowship.
+
+:::
+:::
+:::
 
 
