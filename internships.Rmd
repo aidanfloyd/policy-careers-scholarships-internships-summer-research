@@ -254,10 +254,28 @@ Centers for Medicare & Medicaid Services\
 :::{.panel}
 ### Education {.panel-name}
 
+**Lists:**
+
+1. https://www.theedadvocate.org/education-organizations-and-associations-a-definitive-list/
+
+2. https://www.educationnext.org/top-k-12-education-policy-organizations-and-media-outlets-on-social-media-2015/
+
+3. https://guides.library.harvard.edu/c.php?g=310710&p=2072678
+
 :::
 
 :::{.panel}
 ### Equity {.panel-name}
+
+National Association for Equity, Diversity & Inclusion
+
+National Alliance for Partnerships in Equity (NAPE)
+
+Racial Justice: https://racialequity.org/racial-justice-organizations-and-resources/
+
+**More:**  https://www.racialhealthequity.org/partners
+
+
 
 :::
 :::
