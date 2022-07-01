@@ -18,6 +18,13 @@ xaringanExtra::use_panelset()
  
 <div>
 
+# Full Programs List
+
+Available Here: https://github.com/aidanfloyd/policy-careers-undergrad-resource-guide/blob/6c3fce753bb5036da08e0b47c4d1f8a8e204091d/FullyFunded_PolicyPhD%20Last%20Edit%2006.30.2022.xlsx
+\
+
+\
+
 ## #1 - Syracuse University (Syracuse, NY)
 
 ::: {.l-page}

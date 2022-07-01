@@ -19,6 +19,12 @@ xaringanExtra::use_panelset()
  
 <div>
 
+## Previously Offered Internships
+
+**List Available Here:** https://github.com/aidanfloyd/policy-careers-undergrad-resource-guide/blob/6c3fce753bb5036da08e0b47c4d1f8a8e204091d/Paid%20Policy%20Internships%20Last%20Edit%2006.30.2022.xlsx
+
+\
+
 ## Policy Interest Areas
 
 ::: {.l-page}
@@ -280,8 +286,4 @@ Racial Justice: https://racialequity.org/racial-justice-organizations-and-resour
 :::
 :::
 :::
-
-
-## Previously Offered Internships
-
 

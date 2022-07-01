@@ -4,15 +4,336 @@ description: |
 output: distill::distill_article
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = TRUE, results = 'markup')     
 ```
+
+```{r xaringan-panelset, echo=FALSE}
+xaringanExtra::use_panelset()
+```
+
+<div>
+
+ <p id="left">
+ </p>
+ 
+<div>
+
 
 ## About Summer Research Programs
 
 ### What is a Summer Research Program?
 
+Summer Research Programs are a time-bound opportunity, typically 10-12 weeks in the summer that allow students the opportunity to work with faculty and experienced researchers to learn about research, engage in priceless mentorship, and explore a focus in a particular area of interest. Typically students in policy and poltical science engage in research projects that involve stakeholder engagement, literature review searches, data collection and analysis, and writing and presentation skills. 
+
+### How does compensation work?
+
+For paid opportunities students receive a stipend typically around $3000-$5000 depending on the program and benefits packages that may or may not include room and board, travel, and transportation expenses. 
+
+### How do I find programs
+
+As you begin your search for summer research programs in policy and political science, you may find yourself frustrated with the large amount of programs in the STEM field. Comprehensive databases are rare for finding summer research programs in the social sciences field. The best way to find opportunities is to visit research colleges websites, search by policy area interests with key word searches, and reach out to faculty and staff at your own school to find out if there are available funds for research assistantships. 
+
+### How do I apply?
+
+To prepare to apply to summer research programs, it is good practice to have at least two letters of recommendation (ideally from professors or related professional supervisors) and unofficial transcripts. In addition, you should be prepared to write short essays and answer short response questionnaires on your background and why you are interested in a specific opportunity (the more specific you can be the better!). Pay attention to timelines that programs post which outline when you should expect to hear back about interviews and official acceptance into the program. For interviews, you should be prepared to demonstrate a genuine excitement for research (even if you haven't done any before in a formal setting) and be able to explain how your related experiences in coursework and extracurricular activities have prepared you to take full advantage of opportunities. It is a best practice to have 2-3 questions prepared for the interviewer to pose at the close of the interview. 
+
+\
+
+## PREVIOUSLY OFFERED PROGRAMS
 
 
 
+### Summer Research Opportunities Program (SROP)
 
+::: {.l-page}
+::: {.panelset}
+::: {.panel}
+#### About {.panel-name}
+
+**Program Website:** https://www.btaa.org/resources-for/students/srop/overview
+
+**Details:** The SROP is a gateway to graduate education at Big Ten Academic Alliance universities. The goal of the program is to increase the number of underrepresented students who pursue graduate study and research careers. SROP helps prepare undergraduates for graduate study through intensive research experiences with faculty mentors and enrichment activities. The details about the different programs can be found [here](https://www.btaa.org/resources-for/students/srop/campus-profiles).
+
+**Participating Schools:** University of Chicago, University of Illinois at Urbana-Champaign, Indiana University, University of Iowa, University of Maryland, University of Michigan, Michigan State University, University of Minnesota, University of Nebraska-Lincoln, Northwestern University, The Ohio State University, Penn State University, Purdue University, Rutgers University-New Brunswick, University of Wisconsin-Madison. 
+
+**Compensation:** All-expenses paid plus stipend ($4,500), Housing and transportation included. Enrichment workshops and opportunities. Participation in academic research conference. 
+
+\
+
+:::
+
+:::{.panel}
+#### Eligibility {.panel-name}
+
+**Requirements:** 
+
+1. Be U.S. citizens, permanent residents, or non-U.S. citizens with DACA.
+Have a minimum overall 3.0 GPA (on a 4.0 scale).
+
+2. Be entering their junior or senior year in college (at a school other than the University of Michigan-Ann Arbor) and not be scheduled to graduate before December 2022.
+
+3. Have an interest in pursuing a graduate degree in one of the graduate schools at the participating colleges. Have a genuine interest in academic research and/or teaching as a career.
+
+4. Meet one or more of the following criteria. Come from an educational, cultural, or geographic background that is underrepresented in graduate study in their discipline in the United States or at the University of Michigan. Have demonstrated a commitment to diversity in the academic, professional, or civic realm through their work experience, volunteer engagement, or leadership of student or community organizations. By diversity, we mean efforts to reduce social, educational, or economic disparities based on race, ethnicity, or gender, or to improve race relations in the United States. Have experienced financial hardship as a result of family economic circumstances. Are first-generation U.S. citizens or will be the first in their families to graduate from a four-year college or university.
+
+
+:::
+:::
+:::
+
+### Summer Research Early Identification Program (SR-EIP)
+
+::: {.l-page}
+::: {.panelset}
+::: {.panel}
+#### About {.panel-name}
+
+**Program Website:** https://theleadershipalliance.org/summer-research-early-identification-program
+
+**Details:** Spend 8–10 weeks at a Leadership Alliance institution. Work under the guidance of a faculty or research mentor. Gain theoretical knowledge and practical training in academic research and scientific experimentation. Make oral or poster presentations at the Leadership Alliance National Symposium. Gain access to ongoing resources, mentoring, and professional networks to support your career path as a part of the Leadership Alliance community. Receive professional development mentoring on applying to graduate programs and learn about research careers from alumni.. Programs in many disciplines including Public Policy, Political Science, Sociology. You can apply to up to three research sites at once, but no more than three. 
+
+
+**Compensation:** Receive a stipend, and travel and housing expenses from the research institution. 
+
+\
+
+:::
+
+:::{.panel}
+#### Eligibility {.panel-name}
+
+**Requirements:**
+
+It is the responsibility of the applicant to ensure that the entire application package, including two letters of recommendation and official transcript(s), is received by the February 1, 2022 deadline.
+
+Be currently enrolled full-time in an accredited public or private college or university in the United States or its territories, as recognized by the U.S. Department of Education. Be in good academic standing with a GPA of 3.0 or better. Demonstrate a committed interest to pursue graduate study toward a PhD or MD-PhD.* Have completed at least two semesters and have at least one semester remaining of their undergraduate education by the start of the summer program. Be a documented U.S. citizen or non-citizen national, or permanent resident in possession of an alien registration receipt card (I-551) or another legal document of such status at the time of application. International citizens studying in the United States with an F-1 Visa are not eligible for the SR-EIP. Individuals seeking asylum or refugees are not eligible.
+
+:::
+:::
+:::
+
+### Laney Graduate Summer Opportunity for Academic Research (LGS-SOAR)
+
+::: {.l-page}
+::: {.panelset}
+::: {.panel}
+#### About {.panel-name}
+
+**Program Website:** https://www.gs.emory.edu/diversity/programming/lgs-soar/index.html
+
+**Details:** During the 10-week residential summer program, research fellows conduct full-time research and are mentored by their Faculty Mentor or Principal Investigator and teams of postdocs, research technicians, graduate students, and other undergraduates. Our SOAR researchers receive a housing award for residence on the Emory campus and a stipend to support their full-time attention to research training and professional development. 
+
+
+**Compensation:** Stipend + Housing
+
+\
+
+:::
+
+:::{.panel}
+#### Eligibility {.panel-name}
+
+**Requirements:** All students who have an interest in applying to and attending a doctoral program at Emory University's Laney Graduate School are encouraged to apply. This program option is ideal for scholars currently in their 2nd or 3rd year of their undergraduate degree who have conducted some research and are interested in graduate school; however, due to numerous factors they cannot engage in person. 
+
+
+:::
+:::
+:::
+
+### Institute for Tribal Environmental Professionals
+
+::: {.l-page}
+::: {.panelset}
+::: {.panel}
+#### About {.panel-name}
+
+**Program Website:** http://www7.nau.edu/itep/main/eeop/Internships/ssi_internship
+
+**Details:** Since 1994, the Institute for Tribal Environmental Professionals (ITEP) has offered student summer internships for Native American and other college students with funding from the U.S. Environmental Protection Agency (USEPA). This program provides the opportunity for students to gain hands-on skills with EPA or other governmental and tribal environmental offices. The internship is designed to give current college students an opportunity to: Assist EPA/Tribal agencies with environmental issue; Acquire new skills in a work environment: Gain actual experience while contributing to a project; Earn $4,000 during the 8-week experience; Receive a housing allowance; Receive a travel allowance.
+
+
+**Compensation:** 4800 + housing + travel expense
+
+\
+
+:::
+
+:::{.panel}
+#### Eligibility {.panel-name}
+
+**Requirements:** "Native Affiliation, Be a US Citizen. Possess at valid driver's license. (Not required for all internships). Be a full-time student during Spring 2022 (12 hrs undergrad, 9 hrs grad) with at least a 2.5 cumulative GPA. Be majoring in an environmental or related field like science, engineering, planning, policy, law, management, political science, anthropology, health, etc and have an interest in pursuing an environmental career upon graduating from college. Possess proficient verbal and written communication skills. Have a strong interest in working with Native American tribes or projects benefiting Native American tribes."
+
+
+:::
+:::
+:::
+
+### SUMMER PROGRAM FOR UNDERGRADUATE RESEARCH (SPUR)
+
+::: {.l-page}
+::: {.panelset}
+::: {.panel}
+#### About {.panel-name}
+
+**Program Website:** https://our.utah.edu/spur/
+
+**Details:** The purpose of SPUR is to provide undergraduate students with an intensive 10-week research experience under the mentorship of a University of Utah faculty member. The program provides opportunities to gain research experience in a variety of disciplines. At the time of application, students will indicate to which available projects they are applying. Final student placement will be determined by the Selection Committee. Details regarding expectations and/or requirements of the research are negotiated between the student and the faculty mentor, following program guidelines. The program emphasizes a cohort experience via welcome and closing receptions, peer advising, weekly education events, bi-weekly program meetings, and optional on-campus housing. We provide a generous stipend, travel reimbursement, and housing to those accepted.
+
+
+**Compensation:** $5000 + Participants relocating to Salt Lake City for the duration of the program may be eligible to receive a travel reimbursement up to $500 total for roundtrip travel-related expenses to/from Salt Lake City. All participants have the option of using on-campus housing (participants pay $250; the rest of the on-campus housing expense is covered by the program).
+
+\
+
+:::
+
+:::{.panel}
+#### Eligibility {.panel-name}
+
+**Requirements:** Undergraduates not graduating before end of the program, Eligible to work in the US, able to commit to 35-40 hours/week
+
+
+:::
+:::
+:::
+
+### UC San Diego Summer Research Program (SRP)
+
+::: {.l-page}
+::: {.panelset}
+::: {.panel}
+#### About {.panel-name}
+
+**Program Website:** https://ugresearch.ucsd.edu/research-programs/summer/index.html
+
+**Details:** The Summer Research Program (SRP) equips students with the skills to become research scholars, encourage students' pursuit of graduate study, and increase graduate school enrollment among underrepresented, low-income, and first-generation college students. SRP is made up of 8 programs which are either 8 or 10 weeks long. Each program has a cohort and a Coordinator. While requirements for each program are different, program coordinators work together to create a summer community that brings together students from all the programs. ALL SRP students are paid a stipend! 
+
+
+**Compensation:** $3000-$5000 stipend depending on program enrolled.
+
+\
+
+:::
+
+:::{.panel}
+#### Eligibility {.panel-name}
+
+**Requirements:** Must be enrolled full-time. Work at least 30 hours / week with a mentor throughout the 8 or 10 week program. Attend SRP Orientation.
+
+
+:::
+:::
+:::
+
+### #7 - REACH Equity Summer Undergraduate Research Program (RESURP)
+
+::: {.l-page}
+::: {.panelset}
+::: {.panel}
+#### About {.panel-name}
+
+**Program Website:** https://sites.duke.edu/reachequity/for-students/summer-undergraduate-health-disparities-research-program/
+
+**Details:** RESURP is an 8- week summer program for rising junior and senior undergraduate students. The overall goals of the program are to: increase students’ knowledge of the causes and consequences of racial and ethnic disparities in health; introduce students to basic skills in clinical research, professional development workshops, and provide an opportunity to conduct and present a health disparities research project.
+
+
+**Compensation:** The competitive program will provide up to four selected students with a $3,200 stipend. Note: the program does NOT provide housing assistance.
+
+\
+
+:::
+
+:::{.panel}
+#### Eligibility {.panel-name}
+
+**Requirements:** Students who will be junior or senior undergraduates in fall 2022 are eligible. 
+
+
+:::
+:::
+:::
+
+### #8 - NAME (LOCATION)
+
+::: {.l-page}
+::: {.panelset}
+::: {.panel}
+#### About {.panel-name}
+
+**Program Website:**
+
+**Details:** 
+
+
+**Compensation:**
+
+\
+
+:::
+
+:::{.panel}
+#### Eligibility {.panel-name}
+
+**Requirements:**
+
+
+:::
+:::
+:::
+
+### #9 - NAME (LOCATION)
+
+::: {.l-page}
+::: {.panelset}
+::: {.panel}
+#### About {.panel-name}
+
+**Program Website:**
+
+
+**Details:** 
+
+
+**Compensation:**
+
+\
+
+:::
+
+:::{.panel}
+#### Eligibility {.panel-name}
+
+**Requirements:**
+
+
+:::
+:::
+:::
+
+### #10 - NAME (LOCATION)
+
+::: {.l-page}
+::: {.panelset}
+::: {.panel}
+#### About {.panel-name}
+
+**Program Website:**
+
+**Details:** 
+
+
+**Compensation:**
+
+\
+
+:::
+
+:::{.panel}
+#### Eligibility {.panel-name}
+
+**Requirements:**
+
+
+:::
+:::
+:::

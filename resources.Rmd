@@ -13,6 +13,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 https://www.usnews.com/best-graduate-schools/top-public-affairs-schools/public-affairs-rankings
 
+**Fully Funded PhD Programs List:** https://github.com/aidanfloyd/policy-careers-undergrad-resource-guide/blob/6c3fce753bb5036da08e0b47c4d1f8a8e204091d/FullyFunded_PolicyPhD%20Last%20Edit%2006.30.2022.xlsx
 
+**Graduate Programs List:** https://github.com/aidanfloyd/policy-careers-undergrad-resource-guide/blob/6c3fce753bb5036da08e0b47c4d1f8a8e204091d/Grad_Programs_Finaid%20Last%20Edit%2006.30.2022.xlsx
 
+**Paid Internships List:** https://github.com/aidanfloyd/policy-careers-undergrad-resource-guide/blob/6c3fce753bb5036da08e0b47c4d1f8a8e204091d/Paid%20Policy%20Internships%20Last%20Edit%2006.30.2022.xlsx
 

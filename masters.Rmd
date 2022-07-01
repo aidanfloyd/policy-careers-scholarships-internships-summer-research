@@ -20,6 +20,14 @@ xaringanExtra::use_panelset()
  
 <div>
 
+# Full Programs List
+
+**Available Here:** https://github.com/aidanfloyd/policy-careers-undergrad-resource-guide/blob/6c3fce753bb5036da08e0b47c4d1f8a8e204091d/Grad_Programs_Finaid%20Last%20Edit%2006.30.2022.xlsx
+\
+
+\
+
+
 ## #1 - Indiana University (Bloomington, IN)
 
 ::: {.l-page}
@@ -1052,8 +1060,6 @@ The University of North Carolina (UNC) is located in Chapel Hill, NC home to the
 :::
 
 ## Additional Top 50 Graduate Degree Programs
-
-Insert Excel Spreadsheet Here:
 
 23. Columbia University
 24. Duke University
