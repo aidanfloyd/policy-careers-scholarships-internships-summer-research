@@ -1,10 +1,13 @@
 ---
 title: "About this site"
 description: |
-  Some additional details about the website
+  
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+This website was compiled by Aidan Floyd in 2021 and 2022, research assistant for Jacob Smith while at Duke University. It was last updated in late June 2022. 
+
+If you notice any errors, please contact Jacob Smith at smithjf@kenyon.edu. 
