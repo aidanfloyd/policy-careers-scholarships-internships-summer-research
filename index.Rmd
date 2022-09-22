@@ -31,6 +31,7 @@ Welcome! This website is an access point for undergraduates to find lists of pre
 A list of US News Ranking for "Best Graduate Public Affairs Programs" and their offered major scholarships and funding opportunities. 
 \
 
+This website is not an official listing of any organization or university and I take responsibility for any errors or unintentional omissions. Please contact Jacob Smith (smithjf@kenyon.edu) if you notice an error.
 **PhD Programs**
 \
 A list of fully-funded PhD programs in the US News Ranking top 50 Public Affairs programs.
